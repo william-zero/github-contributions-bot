@@ -1,0 +1,11 @@
+{
+  "name": "sunday_dusk",
+  "mood": "tranquil",
+  "colors": [
+    { "hex": "#2E1760", "name": "deep violet" },
+    { "hex": "#8B3A8F", "name": "muted plum" },
+    { "hex": "#E07B39", "name": "amber ember" },
+    { "hex": "#F5C97A", "name": "soft gold" },
+    { "hex": "#FAF0DC", "name": "warm cream" }
+  ]
+}
