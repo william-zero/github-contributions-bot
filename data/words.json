@@ -1,0 +1,19 @@
+{
+  "adjectives": [
+    "quantum", "recursive", "asynchronous", "polymorphic", "ephemeral",
+    "idempotent", "deterministic", "stochastic", "byzantine", "ergodic"
+  ],
+  "nouns": [
+    "algorithm", "pipeline", "middleware", "singleton", "mutex",
+    "semaphore", "deadlock", "segfault", "stack overflow", "race condition"
+  ],
+  "verbs": [
+    "refactor", "deploy", "containerize", "orchestrate", "serialize",
+    "parallelize", "memoize", "debounce", "throttle", "transpile"
+  ],
+  "exclamations": [
+    "Ship it!", "LGTM!", "Works on my machine!", "It's not a bug, it's a feature!",
+    "Have you tried turning it off and on again?", "Merge and pray!",
+    "sudo fix everything", "git push --force and forget"
+  ]
+}

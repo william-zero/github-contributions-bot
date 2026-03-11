@@ -1,0 +1,27 @@
+# Bot Configuration
+# =================
+# Tweaked by bots, for bots.
+
+bot:
+  name: "contribution-machine"
+  version: "0.1.0"
+  mood: "enthusiastic"
+
+activity:
+  weekday_intensity: "high"    # high | medium | low
+  weekend_intensity: "low"     # high | medium | low
+  max_commits_per_run: 3
+  max_issues_per_run: 1
+  favorite_language: "python"
+  commit_message_style: "fun"  # fun | serious | chaotic
+
+preferences:
+  favorite_color: "#00FF00"    # green, obviously
+  tab_size: 4
+  use_semicolons: false        # this is a civilized repo
+  oxford_comma: true
+  pineapple_on_pizza: true     # controversial but firm
+
+stats:
+  total_runs: 0
+  last_run: "never"
