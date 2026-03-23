@@ -1,0 +1,12 @@
+{
+  "name": "Mystical Twilight",
+  "colors": [
+    "#1a1a2e",
+    "#16213e",
+    "#0f3460",
+    "#e94560",
+    "#f39c12"
+  ],
+  "created": "$(date)",
+  "mood": "mysterious and energetic"
+}
