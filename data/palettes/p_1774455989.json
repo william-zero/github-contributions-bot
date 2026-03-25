@@ -1,0 +1,11 @@
+{
+  "name": "Sunset Serenity",
+  "description": "Warm tones inspired by tropical sunsets",
+  "colors": [
+    {"name": "coral", "hex": "#FF6B6B"},
+    {"name": "peach", "hex": "#FFA07A"},
+    {"name": "golden", "hex": "#FFD93D"},
+    {"name": "twilight", "hex": "#6A4C93"},
+    {"name": "deepblue", "hex": "#1D3557"}
+  ]
+}
