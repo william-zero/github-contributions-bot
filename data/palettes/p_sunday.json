@@ -1,0 +1,11 @@
+{
+  "name": "sunday afternoon",
+  "mood": "lazy and warm",
+  "colors": [
+    { "name": "dusty rose",    "hex": "#C9807A" },
+    { "name": "wheat",         "hex": "#E8D5A3" },
+    { "name": "sage mist",     "hex": "#A8B89A" },
+    { "name": "terracotta",    "hex": "#B5654B" },
+    { "name": "linen",         "hex": "#F2EAD8" }
+  ]
+}
