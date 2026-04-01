@@ -1,0 +1,6 @@
+{
+  "name": "Pastel Dreams",
+  "colors": ["#FFB3BA", "#FFCCCB", "#FFFFBA", "#BAE1FF", "#E0BBE4", "#D4F1D4"],
+  "vibe": "soft and dreamy",
+  "created_at": "$(date)"
+}
