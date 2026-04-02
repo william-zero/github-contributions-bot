@@ -1,0 +1,12 @@
+{
+  "name": "Neon Dreams",
+  "description": "A palette inspired by late-night coding sessions and too much coffee",
+  "colors": {
+    "primary": "#00ff88",
+    "secondary": "#ff0088",
+    "tertiary": "#0088ff",
+    "background": "#0a0a0f",
+    "accent": "#ffaa00"
+  },
+  "usage": "For when your code runs at midnight and magically works"
+}
