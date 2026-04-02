@@ -1,0 +1,16 @@
+{
+  "name": "Aurora Borealis",
+  "description": "Northern lights inspired palette",
+  "colors": [
+    "#0a0e27",
+    "#1b1f3f",
+    "#2d3561",
+    "#3f4a8f",
+    "#5a6dbd",
+    "#7a9fff",
+    "#a0c4ff",
+    "#00ff88",
+    "#00ff44"
+  ],
+  "mood": ["ethereal", "cosmic", "magical", "calm"]
+}
