@@ -1,0 +1,11 @@
+{
+  "name": "sunday_dusk",
+  "mood": "calm + nostalgic",
+  "colors": [
+    { "name": "dusty_rose",    "hex": "#C9A0A0", "note": "warm fade" },
+    { "name": "muted_amber",   "hex": "#D4A45A", "note": "golden hour remnant" },
+    { "name": "hazy_lavender", "hex": "#B8A8C8", "note": "twilight creeping in" },
+    { "name": "deep_slate",    "hex": "#4A5568", "note": "the sky at 7pm" },
+    { "name": "soft_cream",    "hex": "#F5F0E8", "note": "old paper warmth" }
+  ]
+}
