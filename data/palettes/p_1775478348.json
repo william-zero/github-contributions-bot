@@ -1,0 +1,13 @@
+{
+  "name": "Neon Sunset Vibes",
+  "description": "A blend of synthwave and dream pop aesthetics",
+  "colors": [
+    "#FF006E",
+    "#FB5607",
+    "#FFBE0B",
+    "#8338EC",
+    "#3A86FF"
+  ],
+  "mood": ["electric", "dreamy", "nostalgic"],
+  "usage": "UI accent colors and gradients"
+}
