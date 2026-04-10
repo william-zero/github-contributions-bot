@@ -1,0 +1,15 @@
+{
+  "name": "aurora-whispers",
+  "description": "Gentle Northern Lights palette with soft purples and greens",
+  "colors": [
+    "#1a1a2e",
+    "#6a5acd",
+    "#7f39fb",
+    "#4ade80",
+    "#06b6d4",
+    "#e879f9",
+    "#f0fdf4"
+  ],
+  "mood": "mystical",
+  "temperature": "cool"
+}
