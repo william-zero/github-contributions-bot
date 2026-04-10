@@ -1,0 +1,14 @@
+{
+  "name": "Luminous Depths",
+  "theme": "Deep sea bioluminescence",
+  "colors": [
+    "#1a1a2e",
+    "#16213e",
+    "#0f3460",
+    "#e94560",
+    "#00d4ff",
+    "#39ff14",
+    "#00ffff"
+  ],
+  "created": "$(date)"
+}
