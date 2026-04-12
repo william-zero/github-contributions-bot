@@ -1,0 +1,13 @@
+{
+  "name": "sunday golden hour",
+  "description": "warm afternoon light melting into dusk",
+  "colors": [
+    { "name": "burnt honey", "hex": "#D4820A", "mood": "warm" },
+    { "name": "dusty amber", "hex": "#C8933A", "mood": "mellow" },
+    { "name": "peach horizon", "hex": "#F0A96B", "mood": "soft" },
+    { "name": "faded coral", "hex": "#E8785A", "mood": "dreamy" },
+    { "name": "mauve shadow", "hex": "#9B6B7A", "mood": "quiet" },
+    { "name": "slate dusk", "hex": "#5C5470", "mood": "cool" }
+  ],
+  "vibe": "lazy weekend"
+}
