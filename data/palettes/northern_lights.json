@@ -1,0 +1,14 @@
+{
+  "name": "Northern Lights",
+  "theme": "Aurora Borealis in the Arctic night",
+  "colors": {
+    "aurora_green": "#00D084",
+    "aurora_purple": "#6A0DAD",
+    "aurora_pink": "#FF1493",
+    "deep_blue": "#001A4D",
+    "night_black": "#0A0E27",
+    "ice_white": "#F0F8FF",
+    "mystic_cyan": "#00CED1"
+  },
+  "usage": "Perfect for ethereal UI designs and mystical applications"
+}
