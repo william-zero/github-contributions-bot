@@ -1,0 +1,31 @@
+{
+  "name": "Synthwave Dreams",
+  "description": "Neon-soaked palette inspired by 80s synthwave aesthetics",
+  "colors": [
+    {
+      "name": "hot pink",
+      "hex": "#FF10F0",
+      "rgb": "255, 16, 240"
+    },
+    {
+      "name": "electric cyan",
+      "hex": "#00FFF0",
+      "rgb": "0, 255, 240"
+    },
+    {
+      "name": "deep purple",
+      "hex": "#2A0845",
+      "rgb": "42, 8, 69"
+    },
+    {
+      "name": "neon green",
+      "hex": "#39FF14",
+      "rgb": "57, 255, 20"
+    },
+    {
+      "name": "dark navy",
+      "hex": "#0A0E27",
+      "rgb": "10, 14, 39"
+    }
+  ]
+}
