@@ -1,0 +1,11 @@
+{
+  "name": "Deep Ocean",
+  "description": "Colors from the dark depths of the sea",
+  "colors": [
+    { "name": "Abyssal Black", "hex": "#0a0e1a", "rgb": [10, 14, 26] },
+    { "name": "Midnight Navy", "hex": "#0d1f3c", "rgb": [13, 31, 60] },
+    { "name": "Trench Blue", "hex": "#1a3a5c", "rgb": [26, 58, 92] },
+    { "name": "Bioluminescent Teal", "hex": "#00bfb3", "rgb": [0, 191, 179] },
+    { "name": "Phosphor Glow", "hex": "#7fffef", "rgb": [127, 255, 239] }
+  ]
+}
