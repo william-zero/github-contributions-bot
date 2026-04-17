@@ -1,0 +1,26 @@
+{
+  "name": "Sunset Dream",
+  "description": "Warm gradient evoking a peaceful sunset",
+  "colors": [
+    {
+      "name": "Deep Coral",
+      "hex": "#FF6B6B"
+    },
+    {
+      "name": "Golden Hour",
+      "hex": "#FFA500"
+    },
+    {
+      "name": "Peachy Pink",
+      "hex": "#FFB6C1"
+    },
+    {
+      "name": "Soft Purple",
+      "hex": "#DDA0DD"
+    },
+    {
+      "name": "Twilight Blue",
+      "hex": "#4A90E2"
+    }
+  ]
+}
