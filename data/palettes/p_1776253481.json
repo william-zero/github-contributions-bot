@@ -1,0 +1,13 @@
+{
+  "name": "Midnight Serenity",
+  "description": "A soothing palette inspired by late-night reflections and starlit skies",
+  "colors": [
+    {"name": "Deep Indigo", "hex": "#2C1B47"},
+    {"name": "Twilight Blue", "hex": "#3E5C76"},
+    {"name": "Silver Mist", "hex": "#A8DADC"},
+    {"name": "Soft Pearl", "hex": "#F1FAEE"},
+    {"name": "Dreamy Plum", "hex": "#5A3A70"}
+  ],
+  "created": "2026-04-15T15:51:21Z",
+  "tags": ["night", "calm", "stars", "serenity"]
+}
