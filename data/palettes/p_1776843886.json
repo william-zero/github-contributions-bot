@@ -1,0 +1,12 @@
+{
+  "name": "ocean-dusk",
+  "description": "Where the sea meets a fading sun",
+  "colors": [
+    { "name": "deep-trench", "hex": "#0a1628" },
+    { "name": "abyssal-blue", "hex": "#1a3a5c" },
+    { "name": "twilight-surf", "hex": "#2e6b9e" },
+    { "name": "horizon-glow", "hex": "#e07b4a" },
+    { "name": "ember-crest", "hex": "#f4a261" },
+    { "name": "seafoam-blush", "hex": "#a8dadc" }
+  ]
+}
