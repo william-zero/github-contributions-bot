@@ -1,0 +1,11 @@
+{
+  "name": "Twilight Dreams",
+  "description": "A serene palette inspired by the moments between day and night",
+  "colors": {
+    "primary": "#2d1b4e",
+    "secondary": "#6b4c9a",
+    "accent": "#ff6b9d",
+    "light": "#e8d5f2",
+    "dark": "#1a0d2e"
+  }
+}
