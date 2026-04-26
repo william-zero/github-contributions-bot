@@ -1,0 +1,11 @@
+{
+  "name": "low tide",
+  "mood": "coastal, quiet, salt air",
+  "colors": [
+    { "name": "driftwood",   "hex": "#b5a48b" },
+    { "name": "sea glass",   "hex": "#7fb5a8" },
+    { "name": "tide foam",   "hex": "#e8e4dc" },
+    { "name": "kelp",        "hex": "#4a6741" },
+    { "name": "deep channel","hex": "#2c4a5a" }
+  ]
+}
