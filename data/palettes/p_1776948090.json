@@ -1,0 +1,15 @@
+{
+  "name": "neon-midnight",
+  "description": "Electric neon against deep midnight blue",
+  "colors": [
+    { "name": "deep-space", "hex": "#0a0e1a" },
+    { "name": "midnight-navy", "hex": "#0d1b2a" },
+    { "name": "electric-violet", "hex": "#8b00ff" },
+    { "name": "neon-cyan", "hex": "#00f5ff" },
+    { "name": "hot-magenta", "hex": "#ff006e" },
+    { "name": "laser-green", "hex": "#39ff14" },
+    { "name": "ghost-white", "hex": "#f8f8ff" }
+  ],
+  "mood": "cyberpunk, retrofuturism, late-night energy",
+  "use_cases": ["dashboard UI", "gaming interfaces", "synthwave posters"]
+}
