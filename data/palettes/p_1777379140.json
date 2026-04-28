@@ -1,0 +1,12 @@
+{
+  "name": "Deep Ocean",
+  "description": "Inspired by bioluminescent creatures in the midnight zone",
+  "colors": [
+    { "name": "Abyssal Black",   "hex": "#0a0e1a" },
+    { "name": "Midnight Navy",   "hex": "#0d1b3e" },
+    { "name": "Deep Cobalt",     "hex": "#1a3a6b" },
+    { "name": "Bioluminescent",  "hex": "#00e5ff" },
+    { "name": "Ghost Jelly",     "hex": "#b2fff9" },
+    { "name": "Phosphor Green",  "hex": "#39ff14" }
+  ]
+}
