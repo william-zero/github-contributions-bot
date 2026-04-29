@@ -1,0 +1,15 @@
+{
+  "name": "Volcanic Ember",
+  "description": "The smoldering glow of a volcano at dusk — heat, danger, and terrible beauty in equal measure.",
+  "colors": [
+    { "name": "Obsidian Core",    "hex": "#1A0A00", "rgb": [26,  10,   0] },
+    { "name": "Magma Depths",     "hex": "#3D0C02", "rgb": [61,  12,   2] },
+    { "name": "Char Red",         "hex": "#7A1B04", "rgb": [122, 27,   4] },
+    { "name": "Ember Orange",     "hex": "#C43A07", "rgb": [196, 58,   7] },
+    { "name": "Lava Flow",        "hex": "#E8620A", "rgb": [232, 98,  10] },
+    { "name": "Hot Cinder",       "hex": "#F5921E", "rgb": [245, 146, 30] },
+    { "name": "Sulfur Glow",      "hex": "#F7D44C", "rgb": [247, 212, 76] },
+    { "name": "Ash Wisp",         "hex": "#B8A89A", "rgb": [184, 168,154] }
+  ],
+  "tags": ["warm", "intense", "geological", "dramatic"]
+}
