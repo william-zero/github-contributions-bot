@@ -1,0 +1,13 @@
+{
+  "name": "bioluminescent tide",
+  "description": "Colors inspired by the eerie blue glow of bioluminescent plankton on a dark beach",
+  "colors": [
+    { "name": "midnight ocean",  "hex": "#050d1a", "rgb": [5, 13, 26] },
+    { "name": "deep sea",        "hex": "#0a1f3d", "rgb": [10, 31, 61] },
+    { "name": "phosphor glow",   "hex": "#0047ab", "rgb": [0, 71, 171] },
+    { "name": "biolume",         "hex": "#00c8ff", "rgb": [0, 200, 255] },
+    { "name": "wave crest",      "hex": "#7feeff", "rgb": [127, 238, 255] },
+    { "name": "sea foam",        "hex": "#c8f9ff", "rgb": [200, 249, 255] },
+    { "name": "moon silver",     "hex": "#e8f0f5", "rgb": [232, 240, 245] }
+  ]
+}
