@@ -1,0 +1,16 @@
+{
+  "name": "deep ocean pressure",
+  "description": "Colors from the abyssal zone where sunlight never reaches and pressure would crush a submarine",
+  "swatches": [
+    { "name": "hadal black",     "hex": "#080c12", "rgb": [8, 12, 18] },
+    { "name": "trench navy",     "hex": "#0d1b2a", "rgb": [13, 27, 42] },
+    { "name": "abyssal blue",    "hex": "#1a2f4a", "rgb": [26, 47, 74] },
+    { "name": "pressure indigo", "hex": "#1f3d6e", "rgb": [31, 61, 110] },
+    { "name": "biolume cyan",    "hex": "#0077b6", "rgb": [0, 119, 182] },
+    { "name": "anglerfish lure", "hex": "#48cae4", "rgb": [72, 202, 228] },
+    { "name": "ghost shrimp",    "hex": "#ade8f4", "rgb": [173, 232, 244] },
+    { "name": "seafoam echo",    "hex": "#caf0f8", "rgb": [202, 240, 248] }
+  ],
+  "mood": "crushing, ancient, alien, quietly terrifying",
+  "use_cases": ["dark mode UIs", "sci-fi interfaces", "ocean documentaries", "existential dread dashboards"]
+}
