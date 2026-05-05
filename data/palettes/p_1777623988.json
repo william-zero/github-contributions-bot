@@ -1,0 +1,14 @@
+{
+  "name": "Bioluminescent Ocean",
+  "description": "Deep-sea glow palette inspired by bioluminescent creatures",
+  "colors": [
+    { "name": "Abyss",       "hex": "#020d1a", "rgb": [2, 13, 26] },
+    { "name": "Deep Trench", "hex": "#041e3a", "rgb": [4, 30, 58] },
+    { "name": "Void Blue",   "hex": "#072e5a", "rgb": [7, 46, 90] },
+    { "name": "Neon Plankton","hex": "#00f5d4", "rgb": [0, 245, 212] },
+    { "name": "Jellyfish",   "hex": "#7b2fff", "rgb": [123, 47, 255] },
+    { "name": "Anglerfish",  "hex": "#00d4ff", "rgb": [0, 212, 255] },
+    { "name": "Sea Sprite",  "hex": "#a0ffef", "rgb": [160, 255, 239] },
+    { "name": "Ghost Shrimp","hex": "#f0fffe", "rgb": [240, 255, 254] }
+  ]
+}
