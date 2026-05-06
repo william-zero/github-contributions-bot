@@ -1,0 +1,13 @@
+{
+  "name": "Bioluminescent Deep Sea",
+  "description": "Colors inspired by organisms living in the midnight zone",
+  "palette": [
+    { "name": "Abyss Black",     "hex": "#050810", "rgb": [5, 8, 16] },
+    { "name": "Hadal Blue",      "hex": "#0A1628", "rgb": [10, 22, 40] },
+    { "name": "Lanternfish Glow","hex": "#1B4D8E", "rgb": [27, 77, 142] },
+    { "name": "Dinoflagellate",  "hex": "#00CFFF", "rgb": [0, 207, 255] },
+    { "name": "Foxfire Green",   "hex": "#39FF14", "rgb": [57, 255, 20] },
+    { "name": "Anglerfish Lure", "hex": "#FFD700", "rgb": [255, 215, 0] },
+    { "name": "Vampire Squid",   "hex": "#7B2D8B", "rgb": [123, 45, 139] }
+  ]
+}
