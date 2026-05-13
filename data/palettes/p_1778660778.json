@@ -1,0 +1,16 @@
+{
+  "name": "Deep Sea Bioluminescence",
+  "description": "Colors inspired by creatures that glow in the ocean's midnight zone",
+  "swatches": [
+    { "name": "Abyss",        "hex": "#050a12", "rgb": [5, 10, 18]     },
+    { "name": "Twilight Zone", "hex": "#0d1b3e", "rgb": [13, 27, 62]   },
+    { "name": "Anglerfish",   "hex": "#1a0a2e", "rgb": [26, 10, 46]    },
+    { "name": "Foxfire",      "hex": "#00e5a0", "rgb": [0, 229, 160]   },
+    { "name": "Comb Jelly",   "hex": "#8b00ff", "rgb": [139, 0, 255]   },
+    { "name": "Lanternfish",  "hex": "#00cfff", "rgb": [0, 207, 255]   },
+    { "name": "Ghost Shrimp", "hex": "#e0f7ff", "rgb": [224, 247, 255] },
+    { "name": "Sea Sparkle",  "hex": "#39ff14", "rgb": [57, 255, 20]   }
+  ],
+  "mood": "ethereal, otherworldly, cold",
+  "use_cases": ["dark UIs", "sci-fi themes", "underwater visualizations"]
+}
