@@ -1,0 +1,15 @@
+{
+  "name": "Abyssal Trench",
+  "description": "Colors from the deepest ocean floors where sunlight never reaches",
+  "mood": "mysterious, primordial, vast",
+  "colors": [
+    { "name": "hadal black",      "hex": "#050810", "rgb": [5, 8, 16] },
+    { "name": "abyssal navy",     "hex": "#0a1628", "rgb": [10, 22, 40] },
+    { "name": "trench indigo",    "hex": "#162244", "rgb": [22, 34, 68] },
+    { "name": "pressure blue",    "hex": "#1e3a6e", "rgb": [30, 58, 110] },
+    { "name": "bioluminescent",   "hex": "#00d4ff", "rgb": [0, 212, 255] },
+    { "name": "anglerfish glow",  "hex": "#39ff7a", "rgb": [57, 255, 122] },
+    { "name": "cusk eel silver",  "hex": "#8ab4c8", "rgb": [138, 180, 200] },
+    { "name": "seafloor sediment","hex": "#4a3f35", "rgb": [74, 63, 53] }
+  ]
+}
