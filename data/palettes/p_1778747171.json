@@ -1,0 +1,15 @@
+{
+  "name": "Neon Dusk",
+  "description": "Cyberpunk-inspired palette where neon lights bleed into a purple twilight sky",
+  "colors": [
+    { "name": "void black",    "hex": "#0a0a0f", "rgb": [10, 10, 15] },
+    { "name": "deep violet",   "hex": "#1a0a2e", "rgb": [26, 10, 46] },
+    { "name": "midnight plum", "hex": "#2d1b69", "rgb": [45, 27, 105] },
+    { "name": "neon magenta",  "hex": "#e040fb", "rgb": [224, 64, 251] },
+    { "name": "electric cyan", "hex": "#00e5ff", "rgb": [0, 229, 255] },
+    { "name": "plasma green",  "hex": "#69ff47", "rgb": [105, 255, 71] },
+    { "name": "hot coral",     "hex": "#ff6b6b", "rgb": [255, 107, 107] },
+    { "name": "ghost white",   "hex": "#f0f0ff", "rgb": [240, 240, 255] }
+  ],
+  "tags": ["neon", "cyberpunk", "dark", "vibrant", "synthwave"]
+}
