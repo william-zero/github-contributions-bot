@@ -1,0 +1,15 @@
+{
+  "name": "deep ocean bioluminescence",
+  "description": "Colors inspired by creatures that glow in the crushing dark",
+  "colors": [
+    { "name": "abyss black", "hex": "#050a12", "rgb": [5, 10, 18] },
+    { "name": "hadal blue", "hex": "#0d1f3c", "rgb": [13, 31, 60] },
+    { "name": "midnight teal", "hex": "#0a3d4a", "rgb": [10, 61, 74] },
+    { "name": "biolum cyan", "hex": "#00e5cc", "rgb": [0, 229, 204] },
+    { "name": "anglerfish glow", "hex": "#7affd4", "rgb": [122, 255, 212] },
+    { "name": "jellyfish pulse", "hex": "#c084fc", "rgb": [192, 132, 252] },
+    { "name": "pressure white", "hex": "#e8f4f8", "rgb": [232, 244, 248] }
+  ],
+  "mood": "eerie, alien, beautiful",
+  "best_for": "dark UI themes, sci-fi interfaces, things that should not exist but do"
+}
