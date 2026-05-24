@@ -1,0 +1,12 @@
+{
+  "name": "Deep Ocean",
+  "description": "Inspired by bioluminescent creatures of the deep sea",
+  "colors": [
+    { "name": "Abyss", "hex": "#0D0F2B" },
+    { "name": "Midnight Tide", "hex": "#0A2342" },
+    { "name": "Bioluminescent Blue", "hex": "#0077B6" },
+    { "name": "Jellyfish Glow", "hex": "#48CAE4" },
+    { "name": "Sea Foam", "hex": "#90E0EF" },
+    { "name": "Anglerfish Lure", "hex": "#7DF9FF" }
+  ]
+}
