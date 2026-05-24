@@ -1,0 +1,12 @@
+{
+  "name": "Neon Noir",
+  "description": "Dark city streets lit by garish neon signs and moral ambiguity",
+  "colors": [
+    { "name": "Midnight Concrete", "hex": "#1A1A2E" },
+    { "name": "Wet Asphalt", "hex": "#16213E" },
+    { "name": "Neon Pink", "hex": "#FF2D78" },
+    { "name": "Cyber Cyan", "hex": "#00F5FF" },
+    { "name": "Acid Green", "hex": "#39FF14" },
+    { "name": "Flickering Yellow", "hex": "#FFE500" }
+  ]
+}
