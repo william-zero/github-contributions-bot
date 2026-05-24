@@ -1,0 +1,12 @@
+{
+  "name": "Autumn Embers",
+  "description": "Warm tones of a dying fire on a crisp fall evening",
+  "colors": [
+    { "name": "Charcoal Ash", "hex": "#3D2B1F" },
+    { "name": "Burnt Sienna", "hex": "#8B3A2A" },
+    { "name": "Ember Orange", "hex": "#D4522A" },
+    { "name": "Flame Tip", "hex": "#F4831F" },
+    { "name": "Goldenrod", "hex": "#F5C842" },
+    { "name": "Pale Smoke", "hex": "#C8B9A1" }
+  ]
+}
