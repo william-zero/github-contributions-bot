@@ -1,0 +1,13 @@
+{
+  "name": "Autumn Forest",
+  "description": "Warm tones inspired by fall foliage at golden hour",
+  "colors": [
+    {"name": "Charcoal Bark", "hex": "#2d1b00", "rgb": [45, 27, 0]},
+    {"name": "Chesnut", "hex": "#6b3a2a", "rgb": [107, 58, 42]},
+    {"name": "Russet", "hex": "#b5451b", "rgb": [181, 69, 27]},
+    {"name": "Maple Fire", "hex": "#e8622a", "rgb": [232, 98, 42]},
+    {"name": "Amber Glow", "hex": "#f5a623", "rgb": [245, 166, 35]},
+    {"name": "Golden Hour", "hex": "#f7d060", "rgb": [247, 208, 96]},
+    {"name": "Birch Cream", "hex": "#fef9e7", "rgb": [254, 249, 231]}
+  ]
+}
