@@ -1,0 +1,13 @@
+{
+  "name": "Deep Ocean",
+  "description": "Colors inspired by bioluminescent deep-sea creatures",
+  "colors": [
+    {"name": "Abyss", "hex": "#0a0e27", "rgb": [10, 14, 39]},
+    {"name": "Midnight Blue", "hex": "#1a1f5e", "rgb": [26, 31, 94]},
+    {"name": "Electric Jellyfish", "hex": "#3d5af1", "rgb": [61, 90, 241]},
+    {"name": "Biolume Cyan", "hex": "#22d3ee", "rgb": [34, 211, 238]},
+    {"name": "Anglerfish Amber", "hex": "#f59e0b", "rgb": [245, 158, 11]},
+    {"name": "Deep Sea Green", "hex": "#059669", "rgb": [5, 150, 105]},
+    {"name": "Phosphor White", "hex": "#e0f2fe", "rgb": [224, 242, 254]}
+  ]
+}
