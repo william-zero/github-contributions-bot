@@ -1,0 +1,13 @@
+{
+  "name": "Bioluminescent Abyss",
+  "description": "Colors inspired by deep-sea creatures that glow in the dark",
+  "colors": [
+    { "name": "Void Black", "hex": "#070b0f", "rgb": [7, 11, 15] },
+    { "name": "Abyssal Teal", "hex": "#00e5cc", "rgb": [0, 229, 204] },
+    { "name": "Jellyfish Blue", "hex": "#1a6bff", "rgb": [26, 107, 255] },
+    { "name": "Anglerfish Amber", "hex": "#ffaa00", "rgb": [255, 170, 0] },
+    { "name": "Ghost Shrimp Pink", "hex": "#ff6eb0", "rgb": [255, 110, 176] },
+    { "name": "Dinoflagellate Cyan", "hex": "#00ffee", "rgb": [0, 255, 238] }
+  ],
+  "tags": ["dark", "neon", "ocean", "bioluminescent"]
+}
