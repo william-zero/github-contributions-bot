@@ -1,0 +1,12 @@
+{
+  "name": "Bioluminescent Tide",
+  "description": "Inspired by glowing plankton on dark beach nights",
+  "colors": [
+    { "name": "Midnight Cove", "hex": "#0a0f1a", "rgb": [10, 15, 26] },
+    { "name": "Deep Surge", "hex": "#0d2137", "rgb": [13, 33, 55] },
+    { "name": "Phosphor Glow", "hex": "#00e5c8", "rgb": [0, 229, 200] },
+    { "name": "Sea Spark", "hex": "#4dffd9", "rgb": [77, 255, 217] },
+    { "name": "Wave Foam", "hex": "#b3fff4", "rgb": [179, 255, 244] },
+    { "name": "Abyssal Black", "hex": "#030810", "rgb": [3, 8, 16] }
+  ]
+}
