@@ -1,0 +1,12 @@
+{
+  "name": "High Desert Noon",
+  "description": "Bleached bones and heat shimmer over red canyon country",
+  "colors": [
+    { "name": "Furnace White", "hex": "#f5f0e8", "rgb": [245, 240, 232] },
+    { "name": "Sandstone Bluff", "hex": "#d4a574", "rgb": [212, 165, 116] },
+    { "name": "Mesa Red", "hex": "#a0522d", "rgb": [160, 82, 45] },
+    { "name": "Juniper Shadow", "hex": "#4a5c3a", "rgb": [74, 92, 58] },
+    { "name": "Sky Bleach", "hex": "#c8dff0", "rgb": [200, 223, 240] },
+    { "name": "Arroyo Dust", "hex": "#b8976a", "rgb": [184, 151, 106] }
+  ]
+}
