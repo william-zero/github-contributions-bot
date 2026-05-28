@@ -1,0 +1,11 @@
+{
+  "name": "Smoked Amber",
+  "mood": "campfire nostalgia",
+  "colors": [
+    { "name": "Ember Core",    "hex": "#D45C1A", "rgb": [212, 92,  26]  },
+    { "name": "Charcoal Veil", "hex": "#2C2420", "rgb": [44,  36,  32]  },
+    { "name": "Honey Haze",    "hex": "#E8A24B", "rgb": [232, 162, 75]  },
+    { "name": "Ash Drift",     "hex": "#8C7A6B", "rgb": [140, 122, 107] },
+    { "name": "Pale Smoke",    "hex": "#C9B99A", "rgb": [201, 185, 154] }
+  ]
+}
