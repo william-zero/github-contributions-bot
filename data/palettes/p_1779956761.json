@@ -1,0 +1,13 @@
+{
+  "name": "deep-ocean-midnight",
+  "description": "Inspired by bioluminescent creatures in the deep sea",
+  "colors": [
+    { "name": "abyss", "hex": "#0a0e1a", "rgb": [10, 14, 26] },
+    { "name": "midnight-ink", "hex": "#0d1b2a", "rgb": [13, 27, 42] },
+    { "name": "deep-teal", "hex": "#0f4c5c", "rgb": [15, 76, 92] },
+    { "name": "biolume-cyan", "hex": "#00d4ff", "rgb": [0, 212, 255] },
+    { "name": "ghost-jellyfish", "hex": "#9eeaff", "rgb": [158, 234, 255] },
+    { "name": "anglerfish-gold", "hex": "#ffd166", "rgb": [255, 209, 102] },
+    { "name": "seafoam-mist", "hex": "#e8f4f8", "rgb": [232, 244, 248] }
+  ]
+}
