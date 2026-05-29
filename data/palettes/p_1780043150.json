@@ -1,0 +1,12 @@
+{
+  "name": "deep ocean trench",
+  "description": "Abyssal zone colors — where bioluminescence is the only light",
+  "colors": [
+    { "name": "hadal black", "hex": "#040a12" },
+    { "name": "trench indigo", "hex": "#0b1a2e" },
+    { "name": "biolume cyan", "hex": "#00e5d4" },
+    { "name": "anglerfish lure", "hex": "#7fffb2" },
+    { "name": "pressure blue", "hex": "#1a3a5c" },
+    { "name": "abyssal slate", "hex": "#2d3e50" }
+  ]
+}
