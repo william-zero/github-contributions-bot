@@ -1,0 +1,14 @@
+{
+  "name": "Northern Lights",
+  "description": "Aurora borealis hues dancing across a polar sky",
+  "colors": [
+    { "name": "Midnight Indigo", "hex": "#0d0b2e" },
+    { "name": "Deep Aurora", "hex": "#1a1a6e" },
+    { "name": "Teal Shimmer", "hex": "#0d7377" },
+    { "name": "Electric Jade", "hex": "#14a085" },
+    { "name": "Aurora Green", "hex": "#2dffa0" },
+    { "name": "Pale Lime", "hex": "#a8ff78" },
+    { "name": "Soft Violet", "hex": "#c86dd7" },
+    { "name": "Pink Haze", "hex": "#f78fff" }
+  ]
+}
