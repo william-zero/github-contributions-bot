@@ -9,3 +9,4 @@ mellifluous
 ephemeral
 liminal
 sonder
+serendipity
