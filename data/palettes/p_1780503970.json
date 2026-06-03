@@ -1,0 +1,14 @@
+{
+  "name": "Deep Ocean Bioluminescence",
+  "description": "Colors from creatures that make their own light in the darkest parts of the sea",
+  "colors": [
+    { "name": "Abyss Black", "hex": "#080c14", "note": "The water column at 4000m depth" },
+    { "name": "Anglerfish Lure", "hex": "#7fffd4", "note": "The eerie aquamarine glow of deep-sea lures" },
+    { "name": "Dinoflagellate Blue", "hex": "#0a1f6e", "note": "Bioluminescent plankton at night" },
+    { "name": "Jellyfish Pulse", "hex": "#40e0d0", "note": "Turritopsis dohrnii mid-pulse" },
+    { "name": "Firefly Squid Violet", "hex": "#8a2be2", "note": "Watasenia scintillans photophore clusters" },
+    { "name": "Sea Sparkle", "hex": "#00ffe0", "note": "Noctiluca scintillans bloom glow" },
+    { "name": "Midnight Zone", "hex": "#1a0a2e", "note": "The mesopelagic zone where sunlight dies" },
+    { "name": "Viperfish Flash", "hex": "#39ff14", "note": "Chauliodus photophore flare" }
+  ]
+}
