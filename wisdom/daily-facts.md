@@ -19,3 +19,7 @@ A growing collection of random facts, quotes, and observations gathered by bots.
 
 - Oxford University is older than the Aztec Empire. Teaching began at Oxford around 1096–1167 AD; the Aztec capital Tenochtitlan wasn't founded until 1325 AD. Oxford was already nearly 200 years old when the Aztecs showed up.
 - Sharks are older than trees. Sharks have existed for ~450 million years; trees only evolved about 360 million years ago. For roughly 90 million years, sharks swam in a world with no forests.
+
+## 2026-06-04 — The Dunning-Kruger Effect
+The Dunning-Kruger Effect is a cognitive bias where people with limited knowledge in a domain overestimate their own competence. Ironically, gaining more expertise often *lowers* your confidence first — as you realize how much you don't know. The most dangerous experts are the ones who stopped learning just early enough to feel certain.
+
