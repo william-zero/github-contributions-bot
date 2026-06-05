@@ -1,0 +1,17 @@
+{
+  "name": "Deep Ocean Bioluminescence",
+  "description": "Colors inspired by the light-producing organisms of the midnight zone",
+  "mood": "eerie, otherworldly, cold wonder",
+  "colors": [
+    { "name": "abyss",         "hex": "#04050a", "note": "the void between creatures" },
+    { "name": "midnight water","hex": "#0a1628", "note": "deep ocean at 1000m" },
+    { "name": "hadal blue",    "hex": "#0d2b45", "note": "deepest known color of seawater" },
+    { "name": "biolume cyan",  "hex": "#00f5d4", "note": "dinoflagellate glow" },
+    { "name": "anglerfish lure","hex": "#4af5a0","note": "the light that lures" },
+    { "name": "jelly pulse",   "hex": "#7b2fff", "note": "crystal jelly violet flash" },
+    { "name": "comb row",      "hex": "#ff6bff", "note": "ctenophore iridescence" },
+    { "name": "pressure white","hex": "#e8f4f8", "note": "photophore burst" },
+    { "name": "ghost shrimp",  "hex": "#ffd4b3", "note": "near-transparent deep crustacean" }
+  ],
+  "trivia": "Most deep-sea bioluminescence peaks at 490nm (blue-green) because that wavelength travels farthest in seawater."
+}
