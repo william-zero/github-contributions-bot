@@ -10,3 +10,6 @@ ephemeral
 liminal
 sonder
 serendipity
+petrichor
+sonder
+hiraeth
