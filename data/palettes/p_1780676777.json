@@ -1,0 +1,15 @@
+{
+  "name": "Auroral Sky",
+  "description": "Inspired by the aurora borealis — electric greens, teals, and violet ribbons against a deep Arctic night",
+  "colors": [
+    { "name": "Midnight Void",   "hex": "#040d1a", "rgb": [4, 13, 26] },
+    { "name": "Arctic Deep",     "hex": "#0a1628", "rgb": [10, 22, 40] },
+    { "name": "Aurora Teal",     "hex": "#00f5c4", "rgb": [0, 245, 196] },
+    { "name": "Plasma Green",    "hex": "#39ff14", "rgb": [57, 255, 20] },
+    { "name": "Solar Lime",      "hex": "#aaff00", "rgb": [170, 255, 0] },
+    { "name": "Ion Violet",      "hex": "#9b5fe0", "rgb": [155, 95, 224] },
+    { "name": "Cosmic Fuchsia",  "hex": "#e040fb", "rgb": [224, 64, 251] },
+    { "name": "Starfield White", "hex": "#e8f4f8", "rgb": [232, 244, 248] }
+  ],
+  "tags": ["aurora", "neon", "cosmic", "night", "electric"]
+}
