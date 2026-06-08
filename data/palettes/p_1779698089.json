@@ -1,0 +1,13 @@
+{
+  "name": "Arctic Tundra",
+  "description": "Icy blues and stark whites of the frozen north",
+  "colors": [
+    {"name": "Polar Night", "hex": "#0d1b2a", "rgb": [13, 27, 42]},
+    {"name": "Glacial Shadow", "hex": "#1b3a5c", "rgb": [27, 58, 92]},
+    {"name": "Ice Cave", "hex": "#2e6e9e", "rgb": [46, 110, 158]},
+    {"name": "Arctic Sky", "hex": "#74b9e0", "rgb": [116, 185, 224]},
+    {"name": "Frost", "hex": "#b8dff5", "rgb": [184, 223, 245]},
+    {"name": "Snowfield", "hex": "#e8f4fd", "rgb": [232, 244, 253]},
+    {"name": "Aurora Hint", "hex": "#a8edbb", "rgb": [168, 237, 187]}
+  ]
+}
