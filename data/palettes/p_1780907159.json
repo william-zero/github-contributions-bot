@@ -1,0 +1,14 @@
+{
+  "name": "Sunset Over the Sahara",
+  "description": "Warm, dusty tones inspired by desert sunsets — burnt oranges, muted golds, and deep purples.",
+  "colors": [
+    { "name": "Desert Dusk", "hex": "#C45B1E", "rgb": [196, 91, 30] },
+    { "name": "Burnt Sienna", "hex": "#A0522D", "rgb": [160, 82, 45] },
+    { "name": "Sandstorm", "hex": "#D4A55A", "rgb": [212, 165, 90] },
+    { "name": "Fading Gold", "hex": "#E8C97E", "rgb": [232, 201, 126] },
+    { "name": "Twilight Indigo", "hex": "#3D2B5E", "rgb": [61, 43, 94] },
+    { "name": "Mirage Mauve", "hex": "#7A4F7D", "rgb": [122, 79, 125] },
+    { "name": "Oasis Teal", "hex": "#2E8B7A", "rgb": [46, 139, 122] }
+  ],
+  "tags": ["warm", "desert", "sunset", "earthy", "dramatic"]
+}
