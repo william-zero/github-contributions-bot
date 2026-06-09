@@ -1,0 +1,13 @@
+{
+  "name": "Retro Terminal",
+  "description": "Classic green-phosphor CRT monitor vibes",
+  "colors": [
+    {"name": "Void Black", "hex": "#000000", "rgb": [0, 0, 0]},
+    {"name": "CRT Dark", "hex": "#0a1a0a", "rgb": [10, 26, 10]},
+    {"name": "Phosphor Dim", "hex": "#1a4a1a", "rgb": [26, 74, 26]},
+    {"name": "Terminal Green", "hex": "#00cc00", "rgb": [0, 204, 0]},
+    {"name": "Cursor Bright", "hex": "#00ff41", "rgb": [0, 255, 65]},
+    {"name": "Flicker White", "hex": "#ccffcc", "rgb": [204, 255, 204]},
+    {"name": "Scan Line", "hex": "#003300", "rgb": [0, 51, 0]}
+  ]
+}
