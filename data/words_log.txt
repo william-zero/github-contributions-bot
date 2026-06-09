@@ -13,3 +13,6 @@ serendipity
 petrichor
 sonder
 hiraeth
+phosphorescence
+bioluminescence
+thermocline
