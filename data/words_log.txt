@@ -16,3 +16,6 @@ hiraeth
 phosphorescence
 bioluminescence
 thermocline
+phosphorescence
+crepuscular
+susurrus
