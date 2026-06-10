@@ -1,0 +1,13 @@
+{
+  "name": "Aurora Borealis",
+  "description": "Northern lights inspired palette — shimmering greens, teals, and violet curtains",
+  "colors": [
+    { "name": "midnight sky", "hex": "#0a0e27", "rgb": [10, 14, 39] },
+    { "name": "deep aurora teal", "hex": "#00c9b1", "rgb": [0, 201, 177] },
+    { "name": "aurora green", "hex": "#57ff8f", "rgb": [87, 255, 143] },
+    { "name": "curtain violet", "hex": "#7b2fff", "rgb": [123, 47, 255] },
+    { "name": "solar pink", "hex": "#ff4fd8", "rgb": [255, 79, 216] },
+    { "name": "ice white", "hex": "#e8f4f8", "rgb": [232, 244, 248] }
+  ],
+  "mood": "ethereal, cosmic, alive"
+}
