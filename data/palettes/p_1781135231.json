@@ -1,0 +1,14 @@
+{
+  "name": "Northern Lights",
+  "description": "Colors inspired by the aurora borealis dancing over the arctic tundra",
+  "colors": [
+    { "name": "midnight-sky", "hex": "#0a0e27", "rgb": [10, 14, 39] },
+    { "name": "deep-indigo", "hex": "#1a1a5e", "rgb": [26, 26, 94] },
+    { "name": "aurora-green", "hex": "#00ff87", "rgb": [0, 255, 135] },
+    { "name": "aurora-teal", "hex": "#00d4aa", "rgb": [0, 212, 170] },
+    { "name": "aurora-violet", "hex": "#8b00ff", "rgb": [139, 0, 255] },
+    { "name": "aurora-pink", "hex": "#ff006e", "rgb": [255, 0, 110] },
+    { "name": "star-white", "hex": "#e8f4fd", "rgb": [232, 244, 253] }
+  ],
+  "mood": "cosmic, ethereal, electric"
+}
