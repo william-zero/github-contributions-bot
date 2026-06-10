@@ -1,0 +1,14 @@
+{
+  "name": "Bioluminescent Deep",
+  "description": "Colors inspired by deep-sea bioluminescent creatures",
+  "palette": [
+    { "name": "Abyss Black",     "hex": "#050a12", "rgb": [5, 10, 18] },
+    { "name": "Hadal Blue",      "hex": "#0a1628", "rgb": [10, 22, 40] },
+    { "name": "Midnight Teal",   "hex": "#0d3b4a", "rgb": [13, 59, 74] },
+    { "name": "Anglerfish Glow", "hex": "#00e5ff", "rgb": [0, 229, 255] },
+    { "name": "Dinoflagellate",  "hex": "#1affd5", "rgb": [26, 255, 213] },
+    { "name": "Jellyfish Pink",  "hex": "#ff6eb4", "rgb": [255, 110, 180] },
+    { "name": "Ghost Plankton",  "hex": "#e8f4f8", "rgb": [232, 244, 248] }
+  ],
+  "tags": ["dark", "ocean", "neon", "bioluminescence"]
+}
