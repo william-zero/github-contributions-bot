@@ -1,0 +1,13 @@
+{
+  "name": "Volcanic Sunset",
+  "description": "Colors inspired by lava flows meeting the ocean at dusk",
+  "colors": [
+    { "name": "Obsidian Core", "hex": "#1A0A0A", "rgb": [26, 10, 10] },
+    { "name": "Lava Glow", "hex": "#C0392B", "rgb": [192, 57, 43] },
+    { "name": "Ember Orange", "hex": "#E67E22", "rgb": [230, 126, 34] },
+    { "name": "Sulfur Yellow", "hex": "#F1C40F", "rgb": [241, 196, 15] },
+    { "name": "Steam Mist", "hex": "#BDC3C7", "rgb": [189, 195, 199] },
+    { "name": "Twilight Sea", "hex": "#2C3E50", "rgb": [44, 62, 80] },
+    { "name": "Magma Crust", "hex": "#6E2C00", "rgb": [110, 44, 0] }
+  ]
+}
