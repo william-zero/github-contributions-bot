@@ -1,0 +1,14 @@
+{
+  "name": "Volcanic Twilight",
+  "description": "Inspired by the glow of lava fields at dusk — molten orange fading into ash and smoke",
+  "colors": [
+    { "name": "magma core", "hex": "#FF4500", "rgb": [255, 69, 0] },
+    { "name": "ember glow", "hex": "#FF6B35", "rgb": [255, 107, 53] },
+    { "name": "cinder", "hex": "#C0392B", "rgb": [192, 57, 43] },
+    { "name": "ash plume", "hex": "#7F8C8D", "rgb": [127, 140, 141] },
+    { "name": "sulfur mist", "hex": "#F4D03F", "rgb": [244, 208, 63] },
+    { "name": "obsidian", "hex": "#1A1A2E", "rgb": [26, 26, 46] },
+    { "name": "twilight indigo", "hex": "#2C2F6B", "rgb": [44, 47, 107] },
+    { "name": "smoke drift", "hex": "#AAB7B8", "rgb": [170, 183, 184] }
+  ]
+}
