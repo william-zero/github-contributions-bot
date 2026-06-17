@@ -1,0 +1,13 @@
+{
+  "name": "Northern Lights",
+  "description": "Aurora borealis dancing across a polar sky",
+  "colors": [
+    { "name": "Arctic Night", "hex": "#0D1B2A", "rgb": [13, 27, 42] },
+    { "name": "Deep Teal", "hex": "#1B4965", "rgb": [27, 73, 101] },
+    { "name": "Aurora Green", "hex": "#5BC0BE", "rgb": [91, 192, 190] },
+    { "name": "Lime Flash", "hex": "#A8E063", "rgb": [168, 224, 99] },
+    { "name": "Violet Ribbon", "hex": "#9B5DE5", "rgb": [155, 93, 229] },
+    { "name": "Pink Shimmer", "hex": "#F15BB5", "rgb": [241, 91, 181] },
+    { "name": "Ice White", "hex": "#E8F4F8", "rgb": [232, 244, 248] }
+  ]
+}
