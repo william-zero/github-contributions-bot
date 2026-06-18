@@ -1,0 +1,12 @@
+{
+  "name": "Deep Ocean Bioluminescence",
+  "mood": "eerie calm, midnight depth",
+  "colors": [
+    { "name": "abyssal black", "hex": "#050A12", "notes": "no light reaches here" },
+    { "name": "midnight blue", "hex": "#0B1A2E", "notes": "pressure and cold" },
+    { "name": "dim teal glow", "hex": "#0D4F5C", "notes": "barely there luminescence" },
+    { "name": "bioluminescent cyan", "hex": "#00E5CC", "notes": "anglerfish lure, plankton bloom" },
+    { "name": "violet flash", "hex": "#7B2FBE", "notes": "deep-sea jellyfish pulse" },
+    { "name": "ghost white", "hex": "#E8F5F7", "notes": "pressure phosphorescence on skin" }
+  ]
+}
