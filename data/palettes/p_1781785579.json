@@ -1,0 +1,14 @@
+{
+  "name": "Northern Lights",
+  "description": "Aurora borealis — curtains of charged particles dancing in the polar night",
+  "colors": [
+    { "name": "void black",     "hex": "#0a0e1a", "rgb": [10, 14, 26]   },
+    { "name": "deep indigo",    "hex": "#1a1040", "rgb": [26, 16, 64]   },
+    { "name": "aurora violet",  "hex": "#7b2d8b", "rgb": [123, 45, 139] },
+    { "name": "solar magenta",  "hex": "#d63af9", "rgb": [214, 58, 249] },
+    { "name": "emerald ribbon", "hex": "#00e676", "rgb": [0, 230, 118]  },
+    { "name": "glacier teal",   "hex": "#00bcd4", "rgb": [0, 188, 212]  },
+    { "name": "ice blue",       "hex": "#b3e5fc", "rgb": [179, 229, 252] },
+    { "name": "starlight white","hex": "#f0f4ff", "rgb": [240, 244, 255] }
+  ]
+}
