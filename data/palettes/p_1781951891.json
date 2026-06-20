@@ -1,0 +1,11 @@
+{
+  "name": "Deep Ocean",
+  "description": "Colors from the bioluminescent deep sea",
+  "palette": [
+    {"name": "Abyss", "hex": "#050A1C", "rgb": [5, 10, 28]},
+    {"name": "Midnight Blue", "hex": "#0D1B4B", "rgb": [13, 27, 75]},
+    {"name": "Bioluminescent Teal", "hex": "#00D4D0", "rgb": [0, 212, 208]},
+    {"name": "Angler Glow", "hex": "#7AE7E5", "rgb": [122, 231, 229]},
+    {"name": "Surface Foam", "hex": "#B8F4F3", "rgb": [184, 244, 243]}
+  ]
+}
