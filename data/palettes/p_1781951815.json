@@ -1,0 +1,13 @@
+{
+  "name": "Cosmic Marmalade",
+  "description": "The color scheme of a sunset seen through a jar of marmalade at 40,000 feet",
+  "colors": [
+    { "name": "Solar Citrus", "hex": "#FF8C00", "rgb": [255, 140, 0] },
+    { "name": "Pulpy Amber", "hex": "#FF6B1A", "rgb": [255, 107, 26] },
+    { "name": "Stratosphere Pink", "hex": "#FF4D6D", "rgb": [255, 77, 109] },
+    { "name": "Zest Violet", "hex": "#C77DFF", "rgb": [199, 125, 255] },
+    { "name": "Jar Glass Blue", "hex": "#4895EF", "rgb": [72, 149, 239] }
+  ],
+  "mood": "warm-twilight",
+  "best_used_for": ["sunset dashboards", "citrus-themed UIs", "confiture brand identities"]
+}
