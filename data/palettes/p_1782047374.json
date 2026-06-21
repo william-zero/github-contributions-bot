@@ -1,0 +1,12 @@
+{
+  "name": "Deep Ocean",
+  "description": "Colors inspired by bioluminescent deep-sea creatures",
+  "palette": [
+    { "name": "Abyss Black", "hex": "#0a0e1a" },
+    { "name": "Midnight Blue", "hex": "#0d1b3e" },
+    { "name": "Deep Teal", "hex": "#0a4a6e" },
+    { "name": "Bioluminescent Cyan", "hex": "#00d4ff" },
+    { "name": "Jellyfish Violet", "hex": "#7b2fff" },
+    { "name": "Anglerfish Amber", "hex": "#ffaa00" }
+  ]
+}
