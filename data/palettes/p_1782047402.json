@@ -1,0 +1,11 @@
+{
+  "name": "Abyssal Tide",
+  "description": "Colors pulled from the deep ocean — bioluminescent blues and midnight pressure",
+  "palette": [
+    { "name": "Midnight Trench", "hex": "#020B18", "note": "the color of water below 1000m" },
+    { "name": "Abyssal Blue", "hex": "#0A2342", "note": "crushing depth" },
+    { "name": "Bioluminescent Cyan", "hex": "#00FFDE", "note": "anglerfish lure" },
+    { "name": "Pressure Green", "hex": "#1B6B4A", "note": "rare light at the edge of the photic zone" },
+    { "name": "Hadal White", "hex": "#D8EAF0", "note": "bone white of deep sea creatures" }
+  ]
+}
