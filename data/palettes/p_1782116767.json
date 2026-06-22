@@ -1,0 +1,15 @@
+{
+  "name": "Sunset Embers",
+  "description": "The smoldering palette of a fire dying into dusk",
+  "colors": [
+    { "name": "Obsidian Smoke",   "hex": "#1a1214", "rgb": [26, 18, 20] },
+    { "name": "Char",             "hex": "#3b2022", "rgb": [59, 32, 34] },
+    { "name": "Ember Dark",       "hex": "#7a2e1e", "rgb": [122, 46, 30] },
+    { "name": "Burnt Sienna",     "hex": "#c04b28", "rgb": [192, 75, 40] },
+    { "name": "Copper Flame",     "hex": "#e07030", "rgb": [224, 112, 48] },
+    { "name": "Amber Glow",       "hex": "#f0a030", "rgb": [240, 160, 48] },
+    { "name": "Pale Ash",         "hex": "#f5d9b0", "rgb": [245, 217, 176] }
+  ],
+  "mood": "warm, smoldering, twilight",
+  "use_cases": ["dark mode UIs", "autumnal designs", "dramatic headers"]
+}
