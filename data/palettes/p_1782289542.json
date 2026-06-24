@@ -1,0 +1,15 @@
+{
+  "name": "Bioluminescent Deep Sea",
+  "description": "Colors inspired by creatures that make their own light in the crushing dark of the abyss",
+  "colors": [
+    { "name": "Midnight Trench", "hex": "#03051A", "rgb": [3, 5, 26] },
+    { "name": "Angler Glow", "hex": "#1A6B8A", "rgb": [26, 107, 138] },
+    { "name": "Dinoflagellate Blue", "hex": "#0D3BFF", "rgb": [13, 59, 255] },
+    { "name": "Jellyfish Pulse", "hex": "#4DFFEE", "rgb": [77, 255, 238] },
+    { "name": "Viperfish Lure", "hex": "#FFD700", "rgb": [255, 215, 0] },
+    { "name": "Firefly Squid", "hex": "#7B2FFF", "rgb": [123, 47, 255] },
+    { "name": "Foxfire Fungal", "hex": "#39FF14", "rgb": [57, 255, 20] },
+    { "name": "Ghost Shrimp", "hex": "#E8F4F8", "rgb": [232, 244, 248] }
+  ],
+  "mood": "eerie, wondrous, primordial"
+}
