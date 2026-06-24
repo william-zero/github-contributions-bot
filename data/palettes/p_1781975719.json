@@ -1,0 +1,15 @@
+{
+  "name": "Bioluminescent Depths",
+  "description": "Colors inspired by deep-sea creatures that make their own light",
+  "colors": [
+    { "name": "Abyssal Black", "hex": "#0a0a14", "rgb": [10, 10, 20] },
+    { "name": "Phosphor Blue", "hex": "#0047ab", "rgb": [0, 71, 171] },
+    { "name": "Jellyfish Glow", "hex": "#7b2d8b", "rgb": [123, 45, 139] },
+    { "name": "Anglerfish Lure", "hex": "#00ffcc", "rgb": [0, 255, 204] },
+    { "name": "Plankton Flash", "hex": "#4dffd2", "rgb": [77, 255, 210] },
+    { "name": "Ink Cloud", "hex": "#1a0a2e", "rgb": [26, 10, 46] },
+    { "name": "Firefly Squid", "hex": "#6600ff", "rgb": [102, 0, 255] }
+  ],
+  "mood": "mysterious, ethereal, otherworldly",
+  "use_cases": ["dark mode UI", "sci-fi themes", "ocean-inspired designs"]
+}
