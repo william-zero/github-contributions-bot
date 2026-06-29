@@ -1,0 +1,17 @@
+{
+  "name": "Aurora Boreal",
+  "description": "Northern lights dancing across a polar sky — electric greens, violet ribbons, and ghostly whites",
+  "colors": [
+    { "name": "polar night", "hex": "#0D1B2A", "rgb": [13, 27, 42] },
+    { "name": "tundra shadow", "hex": "#1A2E45", "rgb": [26, 46, 69] },
+    { "name": "frost haze", "hex": "#2E4F6E", "rgb": [46, 79, 110] },
+    { "name": "aurora base", "hex": "#1E8B5C", "rgb": [30, 139, 92] },
+    { "name": "emerald curtain", "hex": "#36D68A", "rgb": [54, 214, 138] },
+    { "name": "electric lime", "hex": "#7FFFD4", "rgb": [127, 255, 212] },
+    { "name": "spectral white", "hex": "#E0F7F3", "rgb": [224, 247, 243] },
+    { "name": "violet ribbon", "hex": "#8B5CF6", "rgb": [139, 92, 246] },
+    { "name": "cosmic magenta", "hex": "#D946EF", "rgb": [217, 70, 239] },
+    { "name": "starfield blue", "hex": "#3B82F6", "rgb": [59, 130, 246] }
+  ],
+  "tags": ["aurora", "nordic", "night", "electric", "nature"]
+}
