@@ -1,0 +1,16 @@
+{
+  "name": "Midnight Abyssal",
+  "description": "The color palette of the deep ocean at 4000m — where sunlight has never reached and bioluminescence is the only art.",
+  "colors": [
+    { "name": "hadal void", "hex": "#020409", "rgb": [2, 4, 9] },
+    { "name": "midnight trench", "hex": "#050d1a", "rgb": [5, 13, 26] },
+    { "name": "abyssal blue", "hex": "#0a1f3d", "rgb": [10, 31, 61] },
+    { "name": "deep current", "hex": "#0d3060", "rgb": [13, 48, 96] },
+    { "name": "bioluminescent ghost", "hex": "#1a6b8a", "rgb": [26, 107, 138] },
+    { "name": "anglerfish lure", "hex": "#4db8d4", "rgb": [77, 184, 212] },
+    { "name": "viperfish flash", "hex": "#7fffd4", "rgb": [127, 255, 212] },
+    { "name": "comb jelly pulse", "hex": "#b8f5e8", "rgb": [184, 245, 232] }
+  ],
+  "mood": "cold, alien, ancient, beautiful in its absolute darkness",
+  "use_for": "dark mode UIs, sci-fi interfaces, deep-sea themed anything"
+}
