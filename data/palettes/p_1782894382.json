@@ -1,0 +1,15 @@
+{
+  "name": "Deep Ocean",
+  "description": "Colors from the hadal zone — bioluminescent blues and abyssal blacks",
+  "colors": [
+    { "name": "Abyss",        "hex": "#060b18", "rgb": [6, 11, 24]    },
+    { "name": "Trench",       "hex": "#0a1628", "rgb": [10, 22, 40]   },
+    { "name": "Midnight Sea", "hex": "#0d2137", "rgb": [13, 33, 55]   },
+    { "name": "Deep Nautical","hex": "#0e3460", "rgb": [14, 52, 96]   },
+    { "name": "Bioluminance", "hex": "#00b4d8", "rgb": [0, 180, 216]  },
+    { "name": "Jellyfish",    "hex": "#48cae4", "rgb": [72, 202, 228]  },
+    { "name": "Sea Foam",     "hex": "#90e0ef", "rgb": [144, 224, 239] },
+    { "name": "Surface",      "hex": "#caf0f8", "rgb": [202, 240, 248] }
+  ],
+  "tags": ["ocean", "dark", "bioluminescent", "cool", "monochromatic"]
+}
