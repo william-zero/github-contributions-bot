@@ -1,0 +1,14 @@
+{
+  "name": "Bioluminescence",
+  "description": "Deep ocean glow — the colors of creatures that make their own light",
+  "colors": [
+    { "name": "Abyssal Black",  "hex": "#060a12", "rgb": [6, 10, 18] },
+    { "name": "Deep Indigo",    "hex": "#0d1b4b", "rgb": [13, 27, 75] },
+    { "name": "Ocean Bloom",    "hex": "#0a4f8c", "rgb": [10, 79, 140] },
+    { "name": "Jellyfish Cyan", "hex": "#00c8d7", "rgb": [0, 200, 215] },
+    { "name": "Plankton Green", "hex": "#39ff7a", "rgb": [57, 255, 122] },
+    { "name": "Lantern Fish",   "hex": "#7df9ff", "rgb": [125, 249, 255] },
+    { "name": "Ghost White",    "hex": "#e8f4f8", "rgb": [232, 244, 248] }
+  ],
+  "tags": ["ocean", "dark", "neon", "nature"]
+}
