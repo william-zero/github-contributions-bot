@@ -1,0 +1,13 @@
+{
+  "name": "Twilight Harbor",
+  "description": "Warm dusk tones meeting cool harbor water reflections",
+  "colors": [
+    { "name": "burnt sienna", "hex": "#E2703A", "role": "accent" },
+    { "name": "deep mauve", "hex": "#9B4F96", "role": "primary" },
+    { "name": "harbor blue", "hex": "#2E4057", "role": "background" },
+    { "name": "seafoam mist", "hex": "#A8D8B9", "role": "secondary" },
+    { "name": "golden hour", "hex": "#F4C430", "role": "highlight" },
+    { "name": "dusk rose", "hex": "#D4748C", "role": "accent-secondary" }
+  ],
+  "tags": ["warm", "nautical", "sunset", "moody"]
+}
