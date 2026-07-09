@@ -1,0 +1,11 @@
+{
+  "name": "Desert Mirage",
+  "description": "The hazy warmth of sand dunes at noon",
+  "colors": [
+    { "name": "Sandstone", "hex": "#C2956C" },
+    { "name": "Dusty Rose", "hex": "#C9897A" },
+    { "name": "Camel", "hex": "#D4A574" },
+    { "name": "Sienna Dusk", "hex": "#A0522D" },
+    { "name": "Bleached Sky", "hex": "#E8D5B7" }
+  ]
+}
