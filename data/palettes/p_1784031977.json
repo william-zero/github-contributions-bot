@@ -1,0 +1,13 @@
+{
+  "name": "Bureaucratic Sunset",
+  "description": "Colors found exclusively in government forms and waiting rooms",
+  "palette": [
+    { "name": "Form Gray", "hex": "#B0AEA8", "vibe": "the color of waiting" },
+    { "name": "Fluorescent Off-White", "hex": "#F5F2E8", "vibe": "ceiling tiles, 1987" },
+    { "name": "Institutional Beige", "hex": "#C8B89A", "vibe": "carpet that has seen things" },
+    { "name": "Compliance Blue", "hex": "#4A6FA5", "vibe": "mandatory training slides" },
+    { "name": "Rubber Stamp Red", "hex": "#C0392B", "vibe": "DENIED in bold" },
+    { "name": "Approved Green", "hex": "#27AE60", "vibe": "rare, cherished" },
+    { "name": "Fax Machine Fade", "hex": "#D3CECC", "vibe": "thermal paper memories" }
+  ]
+}
