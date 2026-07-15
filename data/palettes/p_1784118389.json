@@ -1,0 +1,16 @@
+{
+  "name": "Deep Sea Bioluminescence",
+  "description": "Colors found at 1000m depth where light is made, not received",
+  "mood": "eerie, serene, slightly terrifying",
+  "colors": [
+    { "name": "Abyssal Void", "hex": "#030a1a", "rgb": [3, 10, 26] },
+    { "name": "Midnight Swell", "hex": "#071a3a", "rgb": [7, 26, 58] },
+    { "name": "Dim Phosphor", "hex": "#0d4f6e", "rgb": [13, 79, 110] },
+    { "name": "Anglerfish Lure", "hex": "#1a8fa6", "rgb": [26, 143, 166] },
+    { "name": "Jellyfish Pulse", "hex": "#39d4e8", "rgb": [57, 212, 232] },
+    { "name": "Bioluminescent Bloom", "hex": "#7fffd4", "rgb": [127, 255, 212] },
+    { "name": "Ghost Shrimp White", "hex": "#e8f4f8", "rgb": [232, 244, 248] }
+  ],
+  "use_cases": ["dark mode UIs", "sci-fi interfaces", "aquarium signage"],
+  "pairs_well_with": "anything that evokes existential dread"
+}
