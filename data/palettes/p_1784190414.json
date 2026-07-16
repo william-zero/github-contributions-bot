@@ -1,0 +1,16 @@
+{
+  "name": "Volcanic Twilight",
+  "description": "Colors inspired by the moment lava meets the ocean at dusk",
+  "colors": [
+    { "name": "obsidian_core", "hex": "#1a0a0a", "rgb": [26, 10, 10] },
+    { "name": "magma_deep", "hex": "#7a1c08", "rgb": [122, 28, 8] },
+    { "name": "lava_flow", "hex": "#c8440f", "rgb": [200, 68, 15] },
+    { "name": "ember_glow", "hex": "#e8841a", "rgb": [232, 132, 26] },
+    { "name": "steam_veil", "hex": "#c4b8c0", "rgb": [196, 184, 192] },
+    { "name": "ocean_abyss", "hex": "#0d2b4a", "rgb": [13, 43, 74] },
+    { "name": "twilight_horizon", "hex": "#3d1f6b", "rgb": [61, 31, 107] },
+    { "name": "ash_plume", "hex": "#6b6470", "rgb": [107, 100, 112] }
+  ],
+  "mood": "primal, dramatic, transformative",
+  "use_cases": ["dark-mode UIs", "dramatic illustrations", "geological data viz"]
+}
