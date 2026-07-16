@@ -29,3 +29,6 @@ serendipity
 phosphorescence
 sonder
 phosphorescent
+vellichor
+sonder
+hiraeth
