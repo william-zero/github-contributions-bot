@@ -1,0 +1,11 @@
+{
+  "name": "Twilight Harbor",
+  "description": "Deep navy and soft coral tones inspired by a port at dusk",
+  "colors": [
+    { "name": "deep navy", "hex": "#1a2744" },
+    { "name": "slate dusk", "hex": "#2e4070" },
+    { "name": "muted coral", "hex": "#d4725a" },
+    { "name": "warm sand", "hex": "#e8c89a" },
+    { "name": "pale mist", "hex": "#c8d8e8" }
+  ]
+}
