@@ -1,0 +1,13 @@
+{
+  "name": "Deep Ocean",
+  "description": "Colors inspired by bioluminescent creatures in the deep sea",
+  "colors": [
+    { "name": "Abyssal Black",    "hex": "#050d14" },
+    { "name": "Midnight Current", "hex": "#0a2035" },
+    { "name": "Deep Teal",        "hex": "#0d4a5c" },
+    { "name": "Bioluminescent",   "hex": "#00ffe1" },
+    { "name": "Jellyfish Blue",   "hex": "#4fb3ff" },
+    { "name": "Anglerfish Glow",  "hex": "#b4f5a0" },
+    { "name": "Sea Foam",         "hex": "#e8fff8" }
+  ]
+}
