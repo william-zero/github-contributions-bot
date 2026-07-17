@@ -1,0 +1,12 @@
+{
+  "name": "Autumn Embers",
+  "description": "Warm harvest tones from golden fields to smoldering coals",
+  "colors": [
+    { "name": "Harvest Gold",    "hex": "#E8A838", "rgb": [232, 168, 56]  },
+    { "name": "Pumpkin Spice",   "hex": "#C9621F", "rgb": [201, 98, 31]   },
+    { "name": "Ember Red",       "hex": "#A63220", "rgb": [166, 50, 32]   },
+    { "name": "Chestnut",        "hex": "#7B3F1A", "rgb": [123, 63, 26]   },
+    { "name": "Dried Corn Silk", "hex": "#F5DFA0", "rgb": [245, 223, 160] },
+    { "name": "Smoked Oak",      "hex": "#4A3728", "rgb": [74, 55, 40]    }
+  ]
+}
