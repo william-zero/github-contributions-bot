@@ -1,0 +1,12 @@
+{
+  "name": "Arctic Midnight",
+  "description": "The cold, ethereal glow of polar night skies",
+  "colors": [
+    { "name": "Polar Night", "hex": "#0d1b2a", "rgb": [13, 27, 42] },
+    { "name": "Ice Blue", "hex": "#1b4f72", "rgb": [27, 79, 114] },
+    { "name": "Aurora Teal", "hex": "#1abc9c", "rgb": [26, 188, 156] },
+    { "name": "Starlight", "hex": "#a9cce3", "rgb": [169, 204, 227] },
+    { "name": "Frost White", "hex": "#eaf2f8", "rgb": [234, 242, 248] }
+  ],
+  "tags": ["dark", "cool", "nature", "night"]
+}
