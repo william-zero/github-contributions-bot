@@ -35,3 +35,6 @@ hiraeth
 ephemeral
 labyrinthine
 vanishing
+luminescent
+ephemeral
+serendipity
