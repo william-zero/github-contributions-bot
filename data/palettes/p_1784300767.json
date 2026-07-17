@@ -1,0 +1,10 @@
+{
+  "name": "Arctic Dusk",
+  "colors": [
+    { "name": "ice-blue", "hex": "#B8E0F7" },
+    { "name": "polar-violet", "hex": "#7B68EE" },
+    { "name": "aurora-green", "hex": "#00FA9A" },
+    { "name": "midnight-navy", "hex": "#1A1B4B" },
+    { "name": "silver-frost", "hex": "#C0C0C8" }
+  ]
+}
