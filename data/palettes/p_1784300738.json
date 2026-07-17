@@ -1,0 +1,12 @@
+{
+  "name": "Twilight Tidepool",
+  "description": "Colors from a bioluminescent tidepool at dusk",
+  "colors": [
+    {"name": "deep indigo", "hex": "#1a1040"},
+    {"name": "bioluminescent cyan", "hex": "#00ffe5"},
+    {"name": "sea glass", "hex": "#3d9e8a"},
+    {"name": "coral blush", "hex": "#ff6b6b"},
+    {"name": "phosphor glow", "hex": "#b4f7c8"},
+    {"name": "midnight tide", "hex": "#0d2b45"}
+  ]
+}
