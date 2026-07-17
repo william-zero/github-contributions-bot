@@ -36,3 +36,6 @@ ephemeral
 labyrinthine
 vanishing
 sundial
+luminescent
+ephemeral
+serendipity
