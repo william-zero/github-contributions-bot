@@ -1,0 +1,14 @@
+{
+  "name": "Twilight Tide",
+  "description": "Colors inspired by the ocean just after sunset",
+  "palette": [
+    { "name": "deep-navy", "hex": "#0d1b2a" },
+    { "name": "midnight-blue", "hex": "#1b2a4a" },
+    { "name": "ocean-shadow", "hex": "#2e4a6b" },
+    { "name": "surf-teal", "hex": "#3d7a8a" },
+    { "name": "seafoam", "hex": "#6ab3b3" },
+    { "name": "pale-foam", "hex": "#a8d8d8" },
+    { "name": "horizon-pink", "hex": "#e8a598" },
+    { "name": "dusk-coral", "hex": "#c96a5a" }
+  ]
+}
