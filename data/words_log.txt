@@ -39,3 +39,7 @@ sundial
 luminescent
 ephemeral
 serendipity
+petrichor
+sonder
+hiraeth
+vellichor
