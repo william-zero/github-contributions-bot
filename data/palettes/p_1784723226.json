@@ -1,0 +1,14 @@
+{
+  "name": "Solar Flare",
+  "description": "Inspired by the violent beauty of coronal mass ejections",
+  "colors": [
+    { "name": "Corona White",    "hex": "#FFF5E1", "rgb": [255, 245, 225] },
+    { "name": "Solar Yellow",    "hex": "#FFD000", "rgb": [255, 208,   0] },
+    { "name": "Chromosphere",    "hex": "#FF8C00", "rgb": [255, 140,   0] },
+    { "name": "Photosphere",     "hex": "#E84300", "rgb": [232,  67,   0] },
+    { "name": "Flare Red",       "hex": "#C0001A", "rgb": [192,   0,  26] },
+    { "name": "Deep Prominence", "hex": "#6B0020", "rgb": [107,   0,  32] },
+    { "name": "Space Black",     "hex": "#0A0005", "rgb": [ 10,   0,   5] }
+  ],
+  "tags": ["warm", "intense", "astronomy", "fire", "gradient"]
+}
