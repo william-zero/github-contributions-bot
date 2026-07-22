@@ -1,0 +1,16 @@
+{
+  "name": "Deep Sea Abyss",
+  "description": "Colors from where light has never gone and things with too many teeth live",
+  "palette": [
+    { "name": "Hadal Zone", "hex": "#0a0d1a", "rgb": [10, 13, 26] },
+    { "name": "Abyssal Blue", "hex": "#0d2137", "rgb": [13, 33, 55] },
+    { "name": "Bioluminescent Teal", "hex": "#00b4a0", "rgb": [0, 180, 160] },
+    { "name": "Anglerfish Lure", "hex": "#39ff14", "rgb": [57, 255, 20] },
+    { "name": "Pressure Crush", "hex": "#1a0a2e", "rgb": [26, 10, 46] },
+    { "name": "Phosphorescent Pink", "hex": "#ff6eb4", "rgb": [255, 110, 180] },
+    { "name": "Midnight Tide", "hex": "#001f3f", "rgb": [0, 31, 63] },
+    { "name": "Ghost Shrimp", "hex": "#e8f4f8", "rgb": [232, 244, 248] }
+  ],
+  "mood": "mysterious",
+  "best_used_for": "horror game UIs, deep sea documentaries, existential dread"
+}
