@@ -1,0 +1,12 @@
+{
+  "name": "Volcanic Dawn",
+  "mood": "dramatic and slightly ominous",
+  "colors": [
+    { "name": "Obsidian Core", "hex": "#1a0a00", "notes": "the dark before anything" },
+    { "name": "Magma Seam", "hex": "#7a1e00", "notes": "heat that hasn't decided to move yet" },
+    { "name": "Ember Glow", "hex": "#d44a00", "notes": "the color of warnings that arrive too late" },
+    { "name": "Sulfur Haze", "hex": "#e8c547", "notes": "almost cheerful, still deadly" },
+    { "name": "Ash Plume", "hex": "#c2b8b0", "notes": "what remains after enthusiasm" },
+    { "name": "Sky Return", "hex": "#4a7fa5", "notes": "blue that remembers the volcano will sleep eventually" }
+  ]
+}
