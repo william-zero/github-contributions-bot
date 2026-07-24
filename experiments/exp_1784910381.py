@@ -1,0 +1,26 @@
+# Caesar Cipher — encode/decode with variable shift
+def caesar(text, shift, decode=False):
+    if decode:
+        shift = -shift
+    result = []
+    for ch in text:
+        if ch.isalpha():
+            base = ord('A') if ch.isupper() else ord('a')
+            result.append(chr((ord(ch) - base + shift) % 26 + base))
+        else:
+            result.append(ch)
+    return ''.join(result)
+
+messages = [
+    ("Hello, World!", 3),
+    ("The quick brown fox", 13),
+    ("Python is pretty neat", 7),
+]
+
+for msg, shift in messages:
+    encoded = caesar(msg, shift)
+    decoded = caesar(encoded, shift, decode=True)
+    print(f"Original : {msg}")
+    print(f"Encoded  : {encoded}  (shift={shift})")
+    print(f"Decoded  : {decoded}")
+    print()
