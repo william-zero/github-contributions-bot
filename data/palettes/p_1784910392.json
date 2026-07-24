@@ -1,0 +1,14 @@
+{
+  "name": "Midnight Garden",
+  "description": "Deep nocturnal hues inspired by moonlit flowers and shadow foliage",
+  "colors": [
+    { "name": "Obsidian Petal", "hex": "#1A0A2E", "rgb": [26, 10, 46] },
+    { "name": "Twilight Violet", "hex": "#3D1A78", "rgb": [61, 26, 120] },
+    { "name": "Moonvine", "hex": "#6B35A8", "rgb": [107, 53, 168] },
+    { "name": "Lavender Mist", "hex": "#B07FD4", "rgb": [176, 127, 212] },
+    { "name": "Ghost Bloom", "hex": "#E8D5F7", "rgb": [232, 213, 247] },
+    { "name": "Sage Shadow", "hex": "#2C4A3E", "rgb": [44, 74, 62] },
+    { "name": "Fern Dusk", "hex": "#4A7C59", "rgb": [74, 124, 89] },
+    { "name": "Silver Dewdrop", "hex": "#C8E6D8", "rgb": [200, 230, 216] }
+  ]
+}
