@@ -1,0 +1,13 @@
+{
+  "name": "Bioluminescent Deep Sea",
+  "description": "Colors inspired by creatures that make their own light in the crushing dark",
+  "colors": [
+    { "name": "abyssal void", "hex": "#0a0a1a", "notes": "where light goes to retire" },
+    { "name": "anglerfish lure", "hex": "#00ffcc", "notes": "a little too inviting" },
+    { "name": "dinoflagellate blue", "hex": "#1a6bff", "notes": "ocean sparkle, planktonic disco" },
+    { "name": "vampire squid crimson", "hex": "#8b0000", "notes": "misleadingly named, it eats marine snow" },
+    { "name": "comb jelly iridescent", "hex": "#c8a2c8", "notes": "not bioluminescent, just fabulous" },
+    { "name": "hydrothermal glow", "hex": "#ff6600", "notes": "warm even at 400°C" },
+    { "name": "ghost shrimp white", "hex": "#f0ece0", "notes": "translucent enough to see its organs" }
+  ]
+}
