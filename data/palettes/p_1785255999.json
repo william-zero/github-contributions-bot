@@ -1,0 +1,13 @@
+{
+  "name": "Northern Lights",
+  "description": "Aurora borealis-inspired palette — deep night sky meets ethereal greens and violets",
+  "colors": [
+    { "name": "midnight void", "hex": "#0a0e1a", "rgb": [10, 14, 26] },
+    { "name": "aurora green", "hex": "#00e5a0", "rgb": [0, 229, 160] },
+    { "name": "spectral teal", "hex": "#00c9c9", "rgb": [0, 201, 201] },
+    { "name": "nebula violet", "hex": "#7b2fff", "rgb": [123, 47, 255] },
+    { "name": "polar magenta", "hex": "#d63af9", "rgb": [214, 58, 249] },
+    { "name": "ice shimmer", "hex": "#b8f0ff", "rgb": [184, 240, 255] }
+  ],
+  "tags": ["aurora", "night", "celestial", "cool", "vibrant"]
+}
