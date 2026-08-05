@@ -1,0 +1,15 @@
+{
+  "name": "Bioluminescent Deep Sea",
+  "description": "Colors inspired by glowing creatures in the midnight zone",
+  "colors": [
+    { "name": "Abyssal Black", "hex": "#0a0a14", "rgb": [10, 10, 20] },
+    { "name": "Midnight Indigo", "hex": "#0d1b3e", "rgb": [13, 27, 62] },
+    { "name": "Ghost Jellyfish", "hex": "#3d2f6e", "rgb": [61, 47, 110] },
+    { "name": "Bioluminescent Teal", "hex": "#00f5c8", "rgb": [0, 245, 200] },
+    { "name": "Anglerfish Lure", "hex": "#7df9ff", "rgb": [125, 249, 255] },
+    { "name": "Foxfire Green", "hex": "#39ff14", "rgb": [57, 255, 20] },
+    { "name": "Deep Violet", "hex": "#5e1fcd", "rgb": [94, 31, 205] },
+    { "name": "Pale Squid", "hex": "#e8f4f8", "rgb": [232, 244, 248] }
+  ],
+  "tags": ["dark", "neon", "ocean", "nature"]
+}
