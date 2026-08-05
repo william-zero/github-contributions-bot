@@ -1,0 +1,15 @@
+{
+  "name": "Volcanic Dusk",
+  "description": "Colors of a volcano at twilight — molten rock meets fading sky",
+  "palette": [
+    { "name": "ash cloud",    "hex": "#4a4a5a", "rgb": [74, 74, 90] },
+    { "name": "magma glow",   "hex": "#ff4500", "rgb": [255, 69, 0] },
+    { "name": "ember orange", "hex": "#ff8c00", "rgb": [255, 140, 0] },
+    { "name": "sulfur mist",  "hex": "#d4c17f", "rgb": [212, 193, 127] },
+    { "name": "obsidian",     "hex": "#1a1a2e", "rgb": [26, 26, 46] },
+    { "name": "pyroclastic",  "hex": "#7b3f00", "rgb": [123, 63, 0] },
+    { "name": "twilight mauve","hex": "#6e4e7d", "rgb": [110, 78, 125] }
+  ],
+  "mood": "dramatic",
+  "tags": ["geology", "fire", "nature", "dark"]
+}
