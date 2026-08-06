@@ -1,0 +1,12 @@
+{
+  "name": "deep ocean bioluminescence",
+  "inspiration": "the glow of deep-sea creatures in total darkness",
+  "colors": [
+    { "name": "abyss", "hex": "#030d1a", "rgb": [3, 13, 26] },
+    { "name": "hadal blue", "hex": "#062040", "rgb": [6, 32, 64] },
+    { "name": "anglerfish lure", "hex": "#0f4b8f", "rgb": [15, 75, 143] },
+    { "name": "biolum cyan", "hex": "#00c5cc", "rgb": [0, 197, 204] },
+    { "name": "jellyfish glow", "hex": "#4dffd2", "rgb": [77, 255, 210] },
+    { "name": "phosphor bloom", "hex": "#b2fff5", "rgb": [178, 255, 245] }
+  ]
+}
