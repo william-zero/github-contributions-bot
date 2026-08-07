@@ -1,0 +1,13 @@
+{
+  "name": "Autumn Fog",
+  "description": "Muted warm tones seen through early morning valley mist",
+  "colors": [
+    { "name": "burnt sienna haze", "hex": "#C4724A", "rgb": [196, 114, 74] },
+    { "name": "smoke cedar", "hex": "#8B6357", "rgb": [139, 99, 87] },
+    { "name": "pewter rust", "hex": "#A09080", "rgb": [160, 144, 128] },
+    { "name": "damp stone", "hex": "#6E6A62", "rgb": [110, 106, 98] },
+    { "name": "foggy fern", "hex": "#7A8C72", "rgb": [122, 140, 114] },
+    { "name": "pale amber sky", "hex": "#D4B48A", "rgb": [212, 180, 138] },
+    { "name": "wet bark", "hex": "#4A3728", "rgb": [74, 55, 40] }
+  ]
+}
