@@ -1,0 +1,15 @@
+{
+  "name": "Volcanic Dusk",
+  "description": "Inspired by the moment lava meets the ocean at sunset",
+  "colors": [
+    { "name": "obsidian core", "hex": "#1a0a0a", "rgb": [26, 10, 10] },
+    { "name": "magma glow", "hex": "#c23b00", "rgb": [194, 59, 0] },
+    { "name": "lava orange", "hex": "#e8540a", "rgb": [232, 84, 10] },
+    { "name": "ember amber", "hex": "#f5a623", "rgb": [245, 166, 35] },
+    { "name": "steam rose", "hex": "#e8a0a0", "rgb": [232, 160, 160] },
+    { "name": "ocean mist", "hex": "#6a9ab0", "rgb": [106, 154, 176] },
+    { "name": "deep pacific", "hex": "#1b3d5c", "rgb": [27, 61, 92] }
+  ],
+  "mood": "dramatic, elemental, primal",
+  "best_for": "dark mode UIs, hero sections, geological data viz"
+}
