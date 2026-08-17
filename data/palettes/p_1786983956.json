@@ -1,0 +1,13 @@
+{
+  "name": "Ember & Ash",
+  "mood": "warm decay, post-fire stillness",
+  "colors": [
+    { "name": "char black",    "hex": "#1A1410", "rgb": [26, 20, 16] },
+    { "name": "ash grey",      "hex": "#7A6F69", "rgb": [122, 111, 105] },
+    { "name": "warm cinder",   "hex": "#C4784E", "rgb": [196, 120, 78] },
+    { "name": "ember orange",  "hex": "#E8621A", "rgb": [232, 98, 26] },
+    { "name": "smoke white",   "hex": "#EDE8E3", "rgb": [237, 232, 227] },
+    { "name": "deep amber",    "hex": "#8B4513", "rgb": [139, 69, 19] }
+  ],
+  "tags": ["warm", "earthy", "dramatic", "autumnal"]
+}
