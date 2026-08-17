@@ -1,0 +1,15 @@
+{
+  "name": "Coastal Fog",
+  "description": "Muted blues and grays inspired by a foggy Pacific coastline at dawn",
+  "colors": [
+    { "name": "deep sea",    "hex": "#1a2a3a", "role": "background" },
+    { "name": "harbor mist", "hex": "#3b5268", "role": "surface" },
+    { "name": "sea foam",    "hex": "#7ba3b8", "role": "primary" },
+    { "name": "salt spray",  "hex": "#b0cdd8", "role": "secondary" },
+    { "name": "driftwood",   "hex": "#c9b89a", "role": "accent" },
+    { "name": "bleached sand","hex": "#e8e0d0", "role": "highlight" },
+    { "name": "seafloor",    "hex": "#0d1a27", "role": "shadow" }
+  ],
+  "mood": "calm, introspective, melancholic",
+  "best_for": ["data dashboards", "reading apps", "ambient UIs"]
+}
