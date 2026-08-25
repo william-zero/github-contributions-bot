@@ -1,0 +1,14 @@
+{
+  "name": "Autumn Embers",
+  "description": "Warm tones inspired by fallen leaves and cooling campfires",
+  "colors": [
+    { "name": "Charred Log",    "hex": "#2B1D0E" },
+    { "name": "Smoldering Ash", "hex": "#5C3A1E" },
+    { "name": "Ember Orange",   "hex": "#C05C1A" },
+    { "name": "Harvest Gold",   "hex": "#E8943A" },
+    { "name": "Maple Blush",    "hex": "#D4614A" },
+    { "name": "Russet Red",     "hex": "#8B2E16" },
+    { "name": "Dried Sage",     "hex": "#7A8C5E" },
+    { "name": "Mist Grey",      "hex": "#B0AFA8" }
+  ]
+}
