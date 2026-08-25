@@ -1,0 +1,12 @@
+{
+  "name": "Autumn Embers",
+  "description": "Warm tones of a late-October evening: charred wood, amber light, fading marigold",
+  "colors": [
+    { "name": "charcoal-bark", "hex": "#2E1F0F" },
+    { "name": "smoldering-brown", "hex": "#5C3317" },
+    { "name": "ember-orange", "hex": "#C45B1A" },
+    { "name": "amber-glow", "hex": "#E8922A" },
+    { "name": "marigold-fade", "hex": "#F2C05A" },
+    { "name": "pale-ash", "hex": "#F5E8C7" }
+  ]
+}
