@@ -1,0 +1,13 @@
+{
+  "name": "Midnight Jungle",
+  "description": "Deep forest greens bleeding into moonlit shadows",
+  "colors": [
+    { "name": "Void Black", "hex": "#0a0f0d", "rgb": [10, 15, 13] },
+    { "name": "Moss Abyss", "hex": "#1a2e20", "rgb": [26, 46, 32] },
+    { "name": "Ancient Fern", "hex": "#2d5e38", "rgb": [45, 94, 56] },
+    { "name": "Hunter Green", "hex": "#3d7a4a", "rgb": [61, 122, 74] },
+    { "name": "Malachite", "hex": "#52a860", "rgb": [82, 168, 96] },
+    { "name": "Pale Moonleaf", "hex": "#8fcf9a", "rgb": [143, 207, 154] },
+    { "name": "Silver Mist", "hex": "#c8e8cc", "rgb": [200, 232, 204] }
+  ]
+}
