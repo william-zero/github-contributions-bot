@@ -1,0 +1,14 @@
+{
+  "name": "deep_ocean_midnight",
+  "description": "The palette of the abyss — places where sunlight gave up and went home",
+  "colors": {
+    "abyss": "#0a0e1a",
+    "trench": "#111827",
+    "bioluminescent": "#00d4ff",
+    "angler_glow": "#7c3aed",
+    "pressure_ridge": "#1e3a5f",
+    "sediment": "#2d4a6b",
+    "foam": "#e0f7fa",
+    "surface": "#0ea5e9"
+  }
+}
