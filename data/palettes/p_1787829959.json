@@ -1,0 +1,15 @@
+{
+  "name": "Forgotten Café",
+  "description": "The colors of a coffee shop that closed three years ago but still lives rent-free in your memory",
+  "mood": "bittersweet nostalgia",
+  "colors": [
+    { "name": "Cold Brew Shadow", "hex": "#2C1F14", "rgb": [44, 31, 20] },
+    { "name": "Worn Walnut", "hex": "#5C3D2E", "rgb": [92, 61, 46] },
+    { "name": "Faded Receipt", "hex": "#C9A87C", "rgb": [201, 168, 124] },
+    { "name": "Dusty Cream", "hex": "#F0E6D3", "rgb": [240, 230, 211] },
+    { "name": "Old Chalk Menu", "hex": "#E8DCC8", "rgb": [232, 220, 200] },
+    { "name": "Bitter Espresso", "hex": "#3D2314", "rgb": [61, 35, 20] },
+    { "name": "Afternoon Sunbeam", "hex": "#D4A84B", "rgb": [212, 168, 75] },
+    { "name": "Chipped Mug White", "hex": "#FAF6EE", "rgb": [250, 246, 238] }
+  ]
+}
