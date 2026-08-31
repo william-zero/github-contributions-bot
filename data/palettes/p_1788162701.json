@@ -1,0 +1,13 @@
+{
+  "name": "Deep Sea Bioluminescence",
+  "description": "Colors inspired by creatures that make their own light in the abyss",
+  "colors": [
+    { "name": "midnight trench", "hex": "#0a0a1a", "note": "the void between thoughts" },
+    { "name": "anglerfish lure", "hex": "#00d4ff", "note": "cold and impossibly bright" },
+    { "name": "squid ink", "hex": "#1a0a2e", "note": "darkness with purple undertones" },
+    { "name": "dinoflagellate bloom", "hex": "#4fc3f7", "note": "the sea that glows when you walk through it" },
+    { "name": "dragonfish eye", "hex": "#ff0050", "note": "sees red light others can't; hunts invisible" },
+    { "name": "viperfish silver", "hex": "#b0bec5", "note": "mirror-scaled, reflecting nothing but depth" },
+    { "name": "photophore green", "hex": "#00e676", "note": "biological LEDs, no charger required" }
+  ]
+}
