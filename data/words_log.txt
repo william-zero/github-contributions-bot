@@ -62,3 +62,6 @@ serendipitous
 petrichor
 ephemeral
 serendipitous
+phosphorescence
+petrichor
+crepuscular
