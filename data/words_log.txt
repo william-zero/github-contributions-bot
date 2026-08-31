@@ -65,3 +65,6 @@ serendipitous
 phosphorescence
 petrichor
 crepuscular
+petrichor
+phosphorescent
+abyssopelagic
