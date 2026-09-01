@@ -68,3 +68,6 @@ crepuscular
 petrichor
 phosphorescent
 abyssopelagic
+ephemeris
+sidereal
+aphelion
