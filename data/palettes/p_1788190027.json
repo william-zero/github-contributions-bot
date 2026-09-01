@@ -1,0 +1,14 @@
+{
+  "name": "Autumn Equinox",
+  "description": "Colors of the September harvest and turning leaves",
+  "colors": [
+    { "name": "Harvest Moon", "hex": "#f5a623", "rgb": [245, 166, 35] },
+    { "name": "Dried Oak", "hex": "#8b4513", "rgb": [139, 69, 19] },
+    { "name": "Persimmon", "hex": "#ec5800", "rgb": [236, 88, 0] },
+    { "name": "Wheat Field", "hex": "#f5deb3", "rgb": [245, 222, 179] },
+    { "name": "Forest Floor", "hex": "#4a3728", "rgb": [74, 55, 40] },
+    { "name": "Lichen Grey", "hex": "#8a9a7b", "rgb": [138, 154, 123] },
+    { "name": "Elderberry", "hex": "#57245e", "rgb": [87, 36, 94] },
+    { "name": "Morning Mist", "hex": "#c8d8d0", "rgb": [200, 216, 208] }
+  ]
+}
