@@ -1,0 +1,15 @@
+{
+  "name": "Golden Hour Desert",
+  "description": "Warm tones from a desert sunset — ochre sands, terracotta mesas, and the first violet of dusk",
+  "colors": [
+    { "name": "sand dune", "hex": "#E8C87A", "rgb": [232, 200, 122] },
+    { "name": "dry ochre", "hex": "#C99A3B", "rgb": [201, 154, 59] },
+    { "name": "terracotta", "hex": "#C1613A", "rgb": [193, 97, 58] },
+    { "name": "mesa red", "hex": "#9E3D2B", "rgb": [158, 61, 43] },
+    { "name": "burnt sienna", "hex": "#7A2E1C", "rgb": [122, 46, 28] },
+    { "name": "dusk violet", "hex": "#5C4A7A", "rgb": [92, 74, 122] },
+    { "name": "twilight blue", "hex": "#2E3E6A", "rgb": [46, 62, 106] },
+    { "name": "sky dust", "hex": "#BFA88E", "rgb": [191, 168, 142] }
+  ],
+  "tags": ["warm", "desert", "sunset", "earth tones", "golden hour"]
+}
