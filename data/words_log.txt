@@ -71,3 +71,4 @@ abyssopelagic
 ephemeris
 sidereal
 aphelion
+serendipitous
