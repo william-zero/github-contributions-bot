@@ -1,0 +1,13 @@
+{
+  "name": "Deep Ocean Bioluminescence",
+  "description": "Colors inspired by deep-sea creatures that produce their own light",
+  "colors": [
+    { "name": "Abyssal Black", "hex": "#0a0e1a", "rgb": [10, 14, 26] },
+    { "name": "Midnight Blue", "hex": "#0d1b3e", "rgb": [13, 27, 62] },
+    { "name": "Hadal Teal", "hex": "#0b4f6c", "rgb": [11, 79, 108] },
+    { "name": "Anglerfish Glow", "hex": "#00b4d8", "rgb": [0, 180, 216] },
+    { "name": "Jellyfish Pulse", "hex": "#48cae4", "rgb": [72, 202, 228] },
+    { "name": "Dinoflagellate", "hex": "#90e0ef", "rgb": [144, 224, 239] },
+    { "name": "Sea Ghost White", "hex": "#caf0f8", "rgb": [202, 240, 248] }
+  ]
+}
