@@ -72,3 +72,4 @@ ephemeris
 sidereal
 aphelion
 serendipitous
+ephemeral
