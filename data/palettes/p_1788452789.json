@@ -1,0 +1,11 @@
+{
+  "name": "Twilight Ember",
+  "description": "The warm palette of a city skyline at dusk — fading daylight meets the first city lights",
+  "colors": [
+    { "name": "Burnt Sky", "hex": "#C0392B", "role": "primary" },
+    { "name": "Amber Glow", "hex": "#E67E22", "role": "secondary" },
+    { "name": "Fading Gold", "hex": "#F39C12", "role": "accent" },
+    { "name": "Dusty Lavender", "hex": "#7F8C8D", "role": "neutral" },
+    { "name": "Night Approach", "hex": "#2C3E50", "role": "background" }
+  ]
+}
