@@ -1,0 +1,12 @@
+{
+  "name": "Deep Ocean",
+  "description": "Colors inspired by the bioluminescent deep sea",
+  "colors": [
+    { "name": "abyss", "hex": "#020B18", "rgb": [2, 11, 24] },
+    { "name": "hadal blue", "hex": "#0A2342", "rgb": [10, 35, 66] },
+    { "name": "biolum cyan", "hex": "#00FFFF", "rgb": [0, 255, 255] },
+    { "name": "jellyfish pink", "hex": "#FF69B4", "rgb": [255, 105, 180] },
+    { "name": "angler glow", "hex": "#7FFF00", "rgb": [127, 255, 0] },
+    { "name": "deep purple", "hex": "#1A0033", "rgb": [26, 0, 51] }
+  ]
+}
