@@ -1,0 +1,14 @@
+{
+  "name": "Deep Ocean",
+  "description": "Inspired by bioluminescent deep-sea creatures and midnight water",
+  "colors": [
+    { "name": "abyss",       "hex": "#020b18", "rgb": [2, 11, 24]     },
+    { "name": "midnight",    "hex": "#041f3a", "rgb": [4, 31, 58]     },
+    { "name": "deep-navy",   "hex": "#0a3560", "rgb": [10, 53, 96]    },
+    { "name": "ocean",       "hex": "#0e5a8a", "rgb": [14, 90, 138]   },
+    { "name": "cerulean",    "hex": "#1a7fae", "rgb": [26, 127, 174]  },
+    { "name": "biolume",     "hex": "#00d4ff", "rgb": [0, 212, 255]   },
+    { "name": "phosphor",    "hex": "#7fffd4", "rgb": [127, 255, 212] },
+    { "name": "foam",        "hex": "#e0f7ff", "rgb": [224, 247, 255] }
+  ]
+}
