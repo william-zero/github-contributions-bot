@@ -74,3 +74,6 @@ aphelion
 serendipitous
 ephemeral
 synchronicity
+serendipity
+petrichor
+ephemeral
