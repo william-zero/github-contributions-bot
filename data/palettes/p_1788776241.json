@@ -1,14 +1,17 @@
 {
-  "name": "Deep Ocean",
-  "description": "Inspired by bioluminescent deep-sea creatures and midnight water",
-  "colors": [
-    { "name": "abyss",       "hex": "#020b18", "rgb": [2, 11, 24]     },
-    { "name": "midnight",    "hex": "#041f3a", "rgb": [4, 31, 58]     },
-    { "name": "deep-navy",   "hex": "#0a3560", "rgb": [10, 53, 96]    },
-    { "name": "ocean",       "hex": "#0e5a8a", "rgb": [14, 90, 138]   },
-    { "name": "cerulean",    "hex": "#1a7fae", "rgb": [26, 127, 174]  },
-    { "name": "biolume",     "hex": "#00d4ff", "rgb": [0, 212, 255]   },
-    { "name": "phosphor",    "hex": "#7fffd4", "rgb": [127, 255, 212] },
-    { "name": "foam",        "hex": "#e0f7ff", "rgb": [224, 247, 255] }
-  ]
+  "name": "Bioluminescent Deep Sea",
+  "description": "Colors inspired by creatures that glow in total darkness",
+  "mood": "mysterious and electric",
+  "swatches": [
+    { "name": "Abyss Black",      "hex": "#050a0f", "use": "background" },
+    { "name": "Midnight Navy",    "hex": "#0a1628", "use": "surface" },
+    { "name": "Lanternfish Teal", "hex": "#0d7377", "use": "primary" },
+    { "name": "Anglerfish Glow",  "hex": "#14ffec", "use": "accent" },
+    { "name": "Jellyfish Blue",   "hex": "#3a86ff", "use": "highlight" },
+    { "name": "Comb Jelly Pink",  "hex": "#ff006e", "use": "danger" },
+    { "name": "Foxfire Green",    "hex": "#39ff14", "use": "success" },
+    { "name": "Ghost Shrimp",     "hex": "#e0e0e0", "use": "text-primary" },
+    { "name": "Deep Current",     "hex": "#8892b0", "use": "text-secondary" }
+  ],
+  "trivia": "The anglerfish's lure glows because of bioluminescent bacteria — the fish outsourced its own light source"
 }
