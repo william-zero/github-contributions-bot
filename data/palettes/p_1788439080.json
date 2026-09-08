@@ -1,0 +1,14 @@
+{
+  "name": "Autumn Ember",
+  "description": "Warm tones of a dying campfire at dusk",
+  "colors": [
+    { "name": "charcoal", "hex": "#2C2416", "rgb": [44, 36, 22] },
+    { "name": "ember-dark", "hex": "#6B2D0B", "rgb": [107, 45, 11] },
+    { "name": "burnt-orange", "hex": "#C04E13", "rgb": [192, 78, 19] },
+    { "name": "amber", "hex": "#E07A26", "rgb": [224, 122, 38] },
+    { "name": "golden-hour", "hex": "#F4B942", "rgb": [244, 185, 66] },
+    { "name": "pale-smoke", "hex": "#D4C5A9", "rgb": [212, 197, 169] },
+    { "name": "ash", "hex": "#F0EBE0", "rgb": [240, 235, 224] }
+  ],
+  "tags": ["warm", "autumn", "fire", "cozy"]
+}
