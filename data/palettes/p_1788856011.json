@@ -1,0 +1,14 @@
+{
+  "name": "Bioluminescent Tide",
+  "description": "The colors of a nighttime bioluminescent wave breaking on dark sand",
+  "colors": [
+    { "name": "Abyssal Dark",   "hex": "#04050a", "rgb": [4, 5, 10] },
+    { "name": "Deep Indigo",    "hex": "#0d0b2a", "rgb": [13, 11, 42] },
+    { "name": "Cerulean Ghost", "hex": "#1a3a5c", "rgb": [26, 58, 92] },
+    { "name": "Sea Spark",      "hex": "#2e8bb0", "rgb": [46, 139, 176] },
+    { "name": "Cyan Glow",      "hex": "#48d1cc", "rgb": [72, 209, 204] },
+    { "name": "Neon Aqua",      "hex": "#7fffd4", "rgb": [127, 255, 212] },
+    { "name": "Luminous White", "hex": "#e0faff", "rgb": [224, 250, 255] }
+  ],
+  "mood": "eerie, magical, oceanic"
+}
