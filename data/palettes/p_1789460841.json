@@ -1,0 +1,11 @@
+{
+  "name": "Retro Terminal",
+  "description": "The classic green phosphor glow of vintage CRT monitors",
+  "colors": [
+    {"name": "phosphor_bright", "hex": "#33FF33", "rgb": [51, 255, 51]},
+    {"name": "phosphor_mid", "hex": "#00CC00", "rgb": [0, 204, 0]},
+    {"name": "phosphor_dim", "hex": "#007700", "rgb": [0, 119, 0]},
+    {"name": "screen_black", "hex": "#050A05", "rgb": [5, 10, 5]},
+    {"name": "scan_line", "hex": "#001A00", "rgb": [0, 26, 0]}
+  ]
+}
