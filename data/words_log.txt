@@ -77,3 +77,6 @@ synchronicity
 serendipity
 petrichor
 ephemeral
+serendipitous
+ephemeral
+luminescent
