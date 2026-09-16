@@ -1,0 +1,11 @@
+{
+  "name": "Cosmic Dusk",
+  "description": "Colors from the moment when day surrenders to night",
+  "colors": [
+    {"name": "solar_fade", "hex": "#FF6B35", "rgb": [255, 107, 53]},
+    {"name": "twilight_blush", "hex": "#C84B9E", "rgb": [200, 75, 158]},
+    {"name": "deep_violet", "hex": "#6B2FA0", "rgb": [107, 47, 160]},
+    {"name": "midnight_indigo", "hex": "#1A1A5E", "rgb": [26, 26, 94]},
+    {"name": "first_star", "hex": "#E8E8F0", "rgb": [232, 232, 240]}
+  ]
+}
