@@ -1,0 +1,14 @@
+{
+  "name": "Bioluminescent Deep Sea",
+  "description": "Colors inspired by creatures that glow in the ocean abyss",
+  "colors": [
+    { "name": "abyssal black", "hex": "#050a12" },
+    { "name": "anglerfish glow", "hex": "#00f5d4" },
+    { "name": "jellyfish blue", "hex": "#0077ff" },
+    { "name": "dinoflagellate spark", "hex": "#4af7c2" },
+    { "name": "squid ink", "hex": "#1a0a2e" },
+    { "name": "viperfish lure", "hex": "#ff6bff" },
+    { "name": "deep current", "hex": "#002855" },
+    { "name": "lanternfish shimmer", "hex": "#b3ffe0" }
+  ]
+}
