@@ -1,0 +1,14 @@
+{
+  "name": "Overripe Fruit Stand",
+  "description": "The desperate beauty of produce on its last day",
+  "colors": [
+    { "name": "too-ripe banana", "hex": "#f5c518" },
+    { "name": "bruised peach", "hex": "#d4845a" },
+    { "name": "fermenting plum", "hex": "#7b2d8b" },
+    { "name": "sad strawberry", "hex": "#c0392b" },
+    { "name": "mango last chance", "hex": "#ff8c00" },
+    { "name": "overdue avocado", "hex": "#4a2c0a" },
+    { "name": "wrinkled grape", "hex": "#6a0dad" },
+    { "name": "discount bin green", "hex": "#8fbc8f" }
+  ]
+}
