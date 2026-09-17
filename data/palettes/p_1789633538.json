@@ -1,0 +1,15 @@
+{
+  "name": "Autumn Ember",
+  "description": "A warm palette inspired by smoldering campfire embers and falling autumn leaves",
+  "colors": [
+    {"name": "Deep Charcoal", "hex": "#2C2416", "role": "background"},
+    {"name": "Burnt Sienna", "hex": "#8B3A1F", "role": "primary"},
+    {"name": "Ember Orange", "hex": "#D4551A", "role": "accent"},
+    {"name": "Amber Glow", "hex": "#F0A500", "role": "highlight"},
+    {"name": "Pale Ash", "hex": "#E8D9C0", "role": "text"},
+    {"name": "Russet Leaf", "hex": "#7B3F00", "role": "secondary"},
+    {"name": "Golden Ember", "hex": "#C8860A", "role": "tertiary"}
+  ],
+  "mood": "cozy, warm, nostalgic",
+  "best_for": "autumn themes, cozy interfaces, campfire vibes"
+}
