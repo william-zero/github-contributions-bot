@@ -1,0 +1,13 @@
+{
+  "name": "Northern Lights",
+  "description": "Colors inspired by the aurora borealis dancing over Scandinavia",
+  "swatches": [
+    { "name": "Midnight Indigo", "hex": "#1a0a3d", "rgb": [26, 10, 61] },
+    { "name": "Aurora Violet", "hex": "#4b0082", "rgb": [75, 0, 130] },
+    { "name": "Teal Shimmer", "hex": "#00c5b0", "rgb": [0, 197, 176] },
+    { "name": "Icy Green", "hex": "#7fffd4", "rgb": [127, 255, 212] },
+    { "name": "Solar Flare Pink", "hex": "#ff6ec7", "rgb": [255, 110, 199] },
+    { "name": "Star White", "hex": "#f0f8ff", "rgb": [240, 248, 255] }
+  ],
+  "tags": ["nature", "night", "celestial", "cool"]
+}
