@@ -1,0 +1,14 @@
+{
+  "name": "Twilight Harbor",
+  "description": "Moody purples and deep navy blues inspired by a foggy coastal evening",
+  "colors": [
+    { "name": "midnight_navy", "hex": "#0D1B2A", "rgb": [13, 27, 42] },
+    { "name": "deep_indigo", "hex": "#1B2A4A", "rgb": [27, 42, 74] },
+    { "name": "dusk_violet", "hex": "#3D2B6E", "rgb": [61, 43, 110] },
+    { "name": "fog_lavender", "hex": "#7B6BA8", "rgb": [123, 107, 168] },
+    { "name": "mist_mauve", "hex": "#B09DC7", "rgb": [176, 157, 199] },
+    { "name": "ghost_white", "hex": "#E8E4F0", "rgb": [232, 228, 240] }
+  ],
+  "mood": "mysterious, introspective, coastal",
+  "best_for": ["night UI themes", "poetry apps", "ambient music players"]
+}
