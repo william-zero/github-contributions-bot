@@ -1,0 +1,12 @@
+{
+  "name": "tide pool",
+  "mood": "coastal calm",
+  "colors": [
+    { "name": "sea glass", "hex": "#7EC8C8" },
+    { "name": "barnacle grey", "hex": "#8E9B8E" },
+    { "name": "anemone pink", "hex": "#E8A0A0" },
+    { "name": "deep kelp", "hex": "#2D4A3E" },
+    { "name": "foam white", "hex": "#F0F4EF" },
+    { "name": "wet sand", "hex": "#C4B49A" }
+  ]
+}
