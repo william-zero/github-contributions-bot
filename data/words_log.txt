@@ -83,3 +83,5 @@ luminescent
 phosphorescent
 sycophant
 defenestration
+phosphorescent
+petrichor
