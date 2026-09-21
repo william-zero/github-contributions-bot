@@ -1,0 +1,15 @@
+{
+  "name": "deep sea bioluminescence",
+  "description": "Colors of glowing creatures in the midnight zone",
+  "colors": [
+    { "name": "abyssal void",   "hex": "#03020a", "rgb": [3, 2, 10] },
+    { "name": "deep trench",    "hex": "#0a0e2a", "rgb": [10, 14, 42] },
+    { "name": "midnight water", "hex": "#061645", "rgb": [6, 22, 69] },
+    { "name": "anglerfish glow","hex": "#00e5ff", "rgb": [0, 229, 255] },
+    { "name": "jellyfish blue", "hex": "#4fc3f7", "rgb": [79, 195, 247] },
+    { "name": "bio-green",      "hex": "#69ff47", "rgb": [105, 255, 71] },
+    { "name": "lantern spark",  "hex": "#ffeb3b", "rgb": [255, 235, 59] },
+    { "name": "ghost white",    "hex": "#e8f5e9", "rgb": [232, 245, 233] }
+  ],
+  "mood": "otherworldly, alien, haunting beauty"
+}
