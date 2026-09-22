@@ -1,0 +1,13 @@
+{
+  "name": "Deep Ocean",
+  "description": "Colors from the abyssal zone where sunlight never reaches",
+  "colors": {
+    "abyss": "#0A0E27",
+    "trench": "#0D2137",
+    "current": "#1A4A6B",
+    "biolume": "#00E5FF",
+    "foam": "#B2EBF2",
+    "midnight": "#1B2A4A",
+    "phosphor": "#76FF03"
+  }
+}
