@@ -1,0 +1,13 @@
+{
+  "name": "Autumn Embers",
+  "description": "Warm tones of a late September evening fire",
+  "colors": {
+    "ember": "#C0392B",
+    "ash": "#7F8C8D",
+    "bark": "#6D4C41",
+    "leaf": "#E67E22",
+    "smoke": "#BDC3C7",
+    "spark": "#F39C12",
+    "night": "#2C3E50"
+  }
+}
