@@ -1,0 +1,13 @@
+{
+  "name": "deep jungle",
+  "description": "The palette of somewhere you'd need a machete to reach",
+  "colors": [
+    { "name": "canopy shadow", "hex": "#1a2e1f", "note": "the green-black of dense forest overhead" },
+    { "name": "wet moss", "hex": "#3d6b47", "note": "that specific bright green after rain" },
+    { "name": "sunbeam break", "hex": "#7ab87a", "note": "where light finally gets through" },
+    { "name": "tiger lily", "hex": "#e8742a", "note": "the orange that doesn't care about camouflage" },
+    { "name": "river mud", "hex": "#8b6f4e", "note": "the brown that makes rivers look brown" },
+    { "name": "mist veil", "hex": "#c4d9c4", "note": "morning fog that hangs between the trees" },
+    { "name": "midnight fern", "hex": "#0d1f14", "note": "almost black, almost green, entirely ominous" }
+  ]
+}
