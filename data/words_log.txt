@@ -90,3 +90,6 @@ serendipity
 petrichor
 sonder
 ephemeral
+neptune
+phosphorescent
+serendipitous
