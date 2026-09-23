@@ -1,0 +1,13 @@
+{
+  "name": "Golden Hour",
+  "description": "That 20-minute window when everything looks like a painting",
+  "colors": [
+    { "name": "amber glow",     "hex": "#F5A623", "rgb": [245, 166, 35]  },
+    { "name": "peach horizon",  "hex": "#F7C59F", "rgb": [247, 197, 159] },
+    { "name": "dusty rose",     "hex": "#E8A598", "rgb": [232, 165, 152] },
+    { "name": "tangerine flare","hex": "#E8722A", "rgb": [232, 114, 42]  },
+    { "name": "burnt sienna",   "hex": "#C2521F", "rgb": [194, 82, 31]   },
+    { "name": "deep magenta",   "hex": "#8B3A62", "rgb": [139, 58, 98]   },
+    { "name": "twilight indigo","hex": "#3D3B8E", "rgb": [61, 59, 142]   }
+  ]
+}
