@@ -1,0 +1,14 @@
+{
+  "name": "Autumn Library",
+  "description": "The smell of old books and fallen leaves — in hex",
+  "swatches": [
+    { "name": "Leather Binding",  "hex": "#7b4f2e" },
+    { "name": "Aged Paper",       "hex": "#f5e6c8" },
+    { "name": "Ink Stain",        "hex": "#1c1c2e" },
+    { "name": "Chestnut Leaf",    "hex": "#b5451b" },
+    { "name": "Faded Olive",      "hex": "#6b7c4d" },
+    { "name": "Dust Mote Gold",   "hex": "#d4a24c" },
+    { "name": "Velvet Burgundy",  "hex": "#6e2035" },
+    { "name": "Parchment Cream",  "hex": "#ede0c4" }
+  ]
+}
