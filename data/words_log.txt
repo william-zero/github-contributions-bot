@@ -93,3 +93,6 @@ ephemeral
 neptune
 phosphorescent
 serendipitous
+perspicacious
+ephemeral
+mellifluous
