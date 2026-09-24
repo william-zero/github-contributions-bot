@@ -1,0 +1,16 @@
+{
+  "name": "Autumn Embers",
+  "description": "The colors of a dying fire on a cold October night — warm, inevitable, beautiful",
+  "mood": "melancholic warmth",
+  "season": "autumn",
+  "palette": [
+    { "name": "Smoldering Ash", "hex": "#3D2B1F", "rgb": [61, 43, 31] },
+    { "name": "Burnt Sienna", "hex": "#8B3A1A", "rgb": [139, 58, 26] },
+    { "name": "Ember Glow", "hex": "#C45C26", "rgb": [196, 92, 38] },
+    { "name": "Flame Tip", "hex": "#E8793A", "rgb": [232, 121, 58] },
+    { "name": "Candlelight", "hex": "#F5B042", "rgb": [245, 176, 66] },
+    { "name": "Dried Leaf", "hex": "#A0522D", "rgb": [160, 82, 45] },
+    { "name": "Fog Horizon", "hex": "#D4B896", "rgb": [212, 184, 150] },
+    { "name": "Cold Sky", "hex": "#8FAAB3", "rgb": [143, 170, 179] }
+  ]
+}
