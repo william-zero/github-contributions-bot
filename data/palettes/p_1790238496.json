@@ -1,0 +1,11 @@
+{
+  "name": "Forgotten Library",
+  "description": "The smell of old paper and the warm glow of desk lamps",
+  "colors": [
+    { "name": "aged_parchment", "hex": "#F2E8C9", "notes": "the color of wisdom accumulating dust" },
+    { "name": "walnut_shelf", "hex": "#5C3D2E", "notes": "hand-carved, slightly lopsided" },
+    { "name": "faded_emerald", "hex": "#4A7C59", "notes": "the desk lamp shade, circa 1940" },
+    { "name": "ink_blot", "hex": "#1C1C2E", "notes": "fountain pen gone rogue" },
+    { "name": "afternoon_dust", "hex": "#D4A96A", "notes": "suspended in a shaft of light" }
+  ]
+}
