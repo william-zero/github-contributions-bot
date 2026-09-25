@@ -1,0 +1,13 @@
+{
+  "name": "Old Map Cartography",
+  "description": "Colors pulled from antique maps — faded inks, aged vellum, and territory unknown",
+  "colors": [
+    { "name": "Terra Incognita", "hex": "#c9a96e", "notes": "here be dragons (and also just sand)" },
+    { "name": "Aged Vellum", "hex": "#f2e8c9", "notes": "scraped calfskin — cartographers' canvas" },
+    { "name": "Faded Carmine", "hex": "#b5504a", "notes": "empire red, worn by centuries" },
+    { "name": "Compass Rose Gold", "hex": "#d4a017", "notes": "gilded directions to nowhere" },
+    { "name": "Ocean Wash Blue", "hex": "#6b9ab8", "notes": "the sea, hand-painted and slightly wrong" },
+    { "name": "Forest Ink", "hex": "#3d6b4f", "notes": "dense hatching where trees should be" },
+    { "name": "Foxing Brown", "hex": "#7a5c3a", "notes": "age spots of oxidized paper" }
+  ]
+}
