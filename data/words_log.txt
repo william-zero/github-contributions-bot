@@ -96,3 +96,6 @@ serendipitous
 perspicacious
 ephemeral
 mellifluous
+petrichor
+serendipity
+ephemeral
