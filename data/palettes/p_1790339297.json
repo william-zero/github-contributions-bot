@@ -1,0 +1,13 @@
+{
+  "name": "Deep Sea Pressure",
+  "description": "Colors from the places light never reaches — bioluminescent blues and abyssal blacks",
+  "colors": [
+    { "name": "Hadal Black", "hex": "#0a0e14", "notes": "darker than night at 11km depth" },
+    { "name": "Abyssal Blue", "hex": "#0d1f3c", "notes": "no sunlight penetrates here" },
+    { "name": "Midnight Zone", "hex": "#1a3a5c", "notes": "twilight zone fades to this" },
+    { "name": "Bioluminescent Teal", "hex": "#00b4a6", "notes": "anglerfish lure color" },
+    { "name": "Jellyfish Glow", "hex": "#4fd3e8", "notes": "comb jelly bioluminescence" },
+    { "name": "Pressure Phosphor", "hex": "#7fefbd", "notes": "plankton disturbed at depth" },
+    { "name": "Surface Refract", "hex": "#c8f4ff", "notes": "what light looks like from below" }
+  ]
+}
