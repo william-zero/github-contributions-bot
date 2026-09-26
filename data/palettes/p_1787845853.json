@@ -1,0 +1,11 @@
+{
+  "name": "moss & ember",
+  "description": "earthy greens with a warm smolder",
+  "colors": [
+    { "name": "deep moss", "hex": "#2d4a2e" },
+    { "name": "sage field", "hex": "#5a7a5b" },
+    { "name": "pale lichen", "hex": "#a8c4a2" },
+    { "name": "ember glow", "hex": "#c4612a" },
+    { "name": "ash drift", "hex": "#e8ddd0" }
+  ]
+}
