@@ -1,0 +1,12 @@
+{
+  "name": "Bioluminescent Tide",
+  "description": "Colors inspired by glowing plankton on a dark ocean shore",
+  "colors": [
+    { "name": "Midnight Deep", "hex": "#0a0e1a" },
+    { "name": "Abyssal Blue", "hex": "#0d2137" },
+    { "name": "Phosphor Glow", "hex": "#00e5cc" },
+    { "name": "Electric Cyan", "hex": "#00f5ff" },
+    { "name": "Sea Foam Spark", "hex": "#7fffd4" },
+    { "name": "Plankton Pulse", "hex": "#39ff14" }
+  ]
+}
