@@ -1,0 +1,13 @@
+{
+  "name": "Late Afternoon Procrastination",
+  "description": "The colors of a 4pm Monday when you promised yourself you'd finish by 3",
+  "mood": "productive-adjacent",
+  "colors": [
+    { "name": "Dusty Ambition", "hex": "#c8a882", "rgb": [200, 168, 130] },
+    { "name": "Fading Resolve", "hex": "#8fa3b1", "rgb": [143, 163, 177] },
+    { "name": "One More Tab", "hex": "#e8dcc8", "rgb": [232, 220, 200] },
+    { "name": "Almost Done", "hex": "#6b8f71", "rgb": [107, 143, 113] },
+    { "name": "Deadline Terracotta", "hex": "#c06c5c", "rgb": [192, 108, 92] }
+  ],
+  "best_used_for": ["to-do app UIs", "productivity dashboards that mock you gently", "anywhere honesty is valued"]
+}
