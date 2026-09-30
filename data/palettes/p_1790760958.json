@@ -1,0 +1,15 @@
+{
+  "name": "autumn-nostalgia",
+  "description": "The colors you see when you forget to rake leaves until December",
+  "mood": "procrastinatory warmth",
+  "colors": [
+    { "name": "reluctant-rust", "hex": "#8B3A2A", "vibe": "like a radiator that's seen better days" },
+    { "name": "mournful-mustard", "hex": "#C19A2E", "vibe": "when you find last year's Halloween candy" },
+    { "name": "fog-of-monday", "hex": "#7D8A8C", "vibe": "a fog so thick it has opinions" },
+    { "name": "bark-after-rain", "hex": "#5C4033", "vibe": "earthy, damp, philosophical" },
+    { "name": "late-harvest-gold", "hex": "#D4A843", "vibe": "the light at 4pm in October" },
+    { "name": "bruised-persimmon", "hex": "#C4552B", "vibe": "fruit with emotional depth" }
+  ],
+  "pairing_notes": "Use reluctant-rust as background when you want users to feel mildly existential. Pairs well with introspection and hot beverages.",
+  "best_time_to_use": "Any project launched in Q4 that will definitely ship by end of year (definitely)"
+}
