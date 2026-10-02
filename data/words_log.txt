@@ -100,3 +100,6 @@ petrichor
 serendipity
 ephemeral
 serendipity
+serendipitous
+ineffable
+sonder
