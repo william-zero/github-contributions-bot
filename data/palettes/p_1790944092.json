@@ -1,0 +1,16 @@
+{
+  "name": "Deep Ocean",
+  "description": "Colors inspired by the crushing depths of the ocean, from twilight zones to abyssal trenches",
+  "colors": [
+    { "name": "Midnight Trench", "hex": "#0a0e1a", "rgb": [10, 14, 26] },
+    { "name": "Abyss Blue", "hex": "#0d1b2a", "rgb": [13, 27, 42] },
+    { "name": "Hadal Zone", "hex": "#1b2a4a", "rgb": [27, 42, 74] },
+    { "name": "Bioluminescent", "hex": "#00b4d8", "rgb": [0, 180, 216] },
+    { "name": "Twilight Depth", "hex": "#023e8a", "rgb": [2, 62, 138] },
+    { "name": "Angler Glow", "hex": "#48cae4", "rgb": [72, 202, 228] },
+    { "name": "Pressure Wave", "hex": "#0077b6", "rgb": [0, 119, 182] },
+    { "name": "Deep Current", "hex": "#03045e", "rgb": [3, 4, 94] }
+  ],
+  "mood": "mysterious, vast, crushing",
+  "use_cases": ["sci-fi interfaces", "ocean themed apps", "dark mode dashboards"]
+}
