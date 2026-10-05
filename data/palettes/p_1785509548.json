@@ -1,0 +1,13 @@
+{
+  "name": "Autumn Embers",
+  "description": "Warm tones inspired by smoldering leaves and fading daylight",
+  "colors": [
+    { "name": "Ember Red", "hex": "#C0392B", "rgb": [192, 57, 43] },
+    { "name": "Amber Glow", "hex": "#E67E22", "rgb": [230, 126, 34] },
+    { "name": "Golden Hour", "hex": "#F1C40F", "rgb": [241, 196, 15] },
+    { "name": "Burnt Sienna", "hex": "#935116", "rgb": [147, 81, 22] },
+    { "name": "Dusk Purple", "hex": "#6C3483", "rgb": [108, 52, 131] }
+  ],
+  "mood": "cozy",
+  "season": "autumn"
+}
