@@ -1,0 +1,15 @@
+{
+  "name": "Liminal Hour",
+  "description": "The colors of 3:47 AM — that specific time when you're neither awake nor asleep, and the house makes sounds you refuse to investigate",
+  "mood": "unsettled tranquility",
+  "colors": [
+    { "name": "Dead Air Blue", "hex": "#0D1117", "rgb": [13, 17, 23] },
+    { "name": "Hallway Dark", "hex": "#1A1F2E", "rgb": [26, 31, 46] },
+    { "name": "Monitor Glow", "hex": "#1E3A5F", "rgb": [30, 58, 95] },
+    { "name": "Thin Curtain Light", "hex": "#3D5A80", "rgb": [61, 90, 128] },
+    { "name": "Refrigerator Hum", "hex": "#98C1D9", "rgb": [152, 193, 217] },
+    { "name": "Streetlamp Orange", "hex": "#E07B39", "rgb": [224, 123, 57] },
+    { "name": "Eye Adjustment", "hex": "#E8DFCA", "rgb": [232, 223, 202] },
+    { "name": "That One Star", "hex": "#F2F4F7", "rgb": [242, 244, 247] }
+  ]
+}
