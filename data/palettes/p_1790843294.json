@@ -1,0 +1,14 @@
+{
+  "name": "Autumn Embers",
+  "description": "Warm tones inspired by the last gasp of a dying campfire at dusk",
+  "colors": [
+    { "name": "Charcoal Veil", "hex": "#2D2A2E", "role": "background" },
+    { "name": "Smoked Plum",   "hex": "#5C4D5E", "role": "shadow" },
+    { "name": "Ember Glow",    "hex": "#C4622D", "role": "primary" },
+    { "name": "Harvest Amber", "hex": "#E8A045", "role": "accent" },
+    { "name": "Pale Ash",      "hex": "#F0E6D3", "role": "highlight" },
+    { "name": "Goldenrod",     "hex": "#D4A017", "role": "secondary" }
+  ],
+  "mood": "cozy, nostalgic, slightly melancholic",
+  "best_used_for": "autumnal UI themes, vintage posters, comfort food apps"
+}
