@@ -1,0 +1,13 @@
+{
+  "name": "Midnight Bioluminescence",
+  "description": "Deep ocean meets glowing plankton",
+  "colors": [
+    { "name": "abyss", "hex": "#0a0e1a", "role": "background" },
+    { "name": "deep_water", "hex": "#0d2137", "role": "surface" },
+    { "name": "biolume_blue", "hex": "#00c8ff", "role": "primary" },
+    { "name": "plankton_glow", "hex": "#00ff9d", "role": "accent" },
+    { "name": "jellyfish_pink", "hex": "#ff6eb4", "role": "highlight" },
+    { "name": "phosphor_white", "hex": "#e8f9ff", "role": "text" }
+  ],
+  "mood": "mysterious, ethereal, alive in the dark"
+}
