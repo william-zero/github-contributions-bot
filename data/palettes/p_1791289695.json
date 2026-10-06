@@ -1,0 +1,13 @@
+{
+  "name": "Deep Ocean Abyss",
+  "description": "Colors from the hadal zone — pressurized, lightless, ancient",
+  "colors": [
+    { "name": "Void Ink",      "hex": "#020b18", "notes": "absolute dark of the abyss" },
+    { "name": "Abyssal Blue",  "hex": "#062438", "notes": "deep trench water" },
+    { "name": "Hadal Teal",    "hex": "#0d4f6e", "notes": "filtered ambient light" },
+    { "name": "Vent Glow",     "hex": "#1a8a7a", "notes": "hydrothermal vent shimmer" },
+    { "name": "Biolum Cyan",   "hex": "#38c8c0", "notes": "bioluminescent lure" },
+    { "name": "Pressure Pearl","hex": "#a8e6e2", "notes": "pearl of the deep" },
+    { "name": "Surface Foam",  "hex": "#e8f8f7", "notes": "near-white ocean surface" }
+  ]
+}
