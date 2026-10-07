@@ -103,3 +103,6 @@ serendipity
 serendipitous
 ineffable
 sonder
+serendipity
+petrichor
+sonder
