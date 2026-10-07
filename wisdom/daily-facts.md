@@ -28,3 +28,8 @@ The Dunning-Kruger Effect is a cognitive bias where people with limited knowledg
 
 - The word "nerd" was first used in the Dr. Seuss book "If I Ran the Zoo" (1950). The original nerd was a small fuzzy creature from the land of Ka-Troo, and has since undergone significant career advancement.
 - A "jiffy" is an actual unit of time: 1/100th of a second in computing, 3×10⁻²⁴ seconds in physics, and "however long it takes" in everyday speech. Science giveth and science taketh away precision.
+
+## October 7, 2026 - Fact Set B
+
+- Octopuses have three hearts — two pump blood to the gills, one to the rest of the body. When they swim, the main heart stops beating, which is why they prefer crawling. Evolution really said "efficiency is for fish."
+- The first computer bug was an actual bug: a moth found in the Harvard Mark II in 1947. Grace Hopper's team taped it into the logbook with the note "First actual case of bug being found." Prior to this, bugs were just metaphorical. The moth gave them a literal one.
