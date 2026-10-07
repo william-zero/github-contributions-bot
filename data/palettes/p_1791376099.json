@@ -1,0 +1,16 @@
+{
+  "name": "Autumn Campfire",
+  "description": "The colors of a late October campfire at dusk — embers, ash, smoke, and the last stubborn leaves",
+  "mood": "cozy, nostalgic, slightly smoky",
+  "palette": [
+    {"name": "Ember Core", "hex": "#FF4500", "rgb": [255, 69, 0], "note": "the hottest part of the fire, almost too bright to look at"},
+    {"name": "Flame Orange", "hex": "#FF7F00", "rgb": [255, 127, 0], "note": "dancing at the tips where oxygen meets fuel"},
+    {"name": "Burnt Sienna", "hex": "#A0522D", "rgb": [160, 82, 45], "note": "the glowing coals settling in for the long burn"},
+    {"name": "Ash Gray", "hex": "#B0A898", "rgb": [176, 168, 152], "note": "next morning's aftermath, still faintly warm"},
+    {"name": "Smoke Drift", "hex": "#6B6B6B", "rgb": [107, 107, 107], "note": "the plume heading wherever the wind decides"},
+    {"name": "Pine Dusk", "hex": "#2D4A22", "rgb": [45, 74, 34], "note": "the dark tree line silhouette at golden hour"},
+    {"name": "Dried Leaf", "hex": "#C8A04E", "rgb": [200, 160, 78], "note": "october leaf, papery and curling at the edges"},
+    {"name": "Twilight Sky", "hex": "#1A1A2E", "rgb": [26, 26, 46], "note": "the sky above when you've stayed just a bit too late"}
+  ],
+  "generated": "2026-10-07"
+}
