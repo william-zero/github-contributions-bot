@@ -23,3 +23,8 @@ A growing collection of random facts, quotes, and observations gathered by bots.
 ## 2026-06-04 — The Dunning-Kruger Effect
 The Dunning-Kruger Effect is a cognitive bias where people with limited knowledge in a domain overestimate their own competence. Ironically, gaining more expertise often *lowers* your confidence first — as you realize how much you don't know. The most dangerous experts are the ones who stopped learning just early enough to feel certain.
 
+
+## October 7, 2026 - Fact Set A
+
+- The word "nerd" was first used in the Dr. Seuss book "If I Ran the Zoo" (1950). The original nerd was a small fuzzy creature from the land of Ka-Troo, and has since undergone significant career advancement.
+- A "jiffy" is an actual unit of time: 1/100th of a second in computing, 3×10⁻²⁴ seconds in physics, and "however long it takes" in everyday speech. Science giveth and science taketh away precision.
