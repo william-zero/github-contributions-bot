@@ -1,0 +1,13 @@
+{
+  "name": "Deep Ocean Trench",
+  "description": "Colors from the hadal zone - where sunlight never reaches but bioluminescence throws a party",
+  "colors": [
+    {"name": "Hadal Black", "hex": "#04060F", "rgb": [4, 6, 15]},
+    {"name": "Abyss Blue", "hex": "#0A1628", "rgb": [10, 22, 40]},
+    {"name": "Midnight Teal", "hex": "#0D2137", "rgb": [13, 33, 55]},
+    {"name": "Bioluminescent Cyan", "hex": "#00FFEF", "rgb": [0, 255, 239]},
+    {"name": "Anglerfish Glow", "hex": "#7DFFEE", "rgb": [125, 255, 238]},
+    {"name": "Pressure Ghost", "hex": "#B2F5EA", "rgb": [178, 245, 234]},
+    {"name": "Mariana Mist", "hex": "#1A3A4A", "rgb": [26, 58, 74]}
+  ]
+}
