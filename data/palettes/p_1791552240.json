@@ -1,0 +1,14 @@
+{
+  "name": "Abyssal Glow",
+  "description": "Colors inspired by bioluminescent creatures in the deep ocean",
+  "colors": [
+    { "name": "Void Black", "hex": "#050a12" },
+    { "name": "Midnight Navy", "hex": "#0d1b2a" },
+    { "name": "Deep Blue", "hex": "#102a43" },
+    { "name": "Bioluminescent Cyan", "hex": "#00d4ff" },
+    { "name": "Jellyfish Blue", "hex": "#4fc3f7" },
+    { "name": "Anglerfish Amber", "hex": "#ffb347" },
+    { "name": "Plankton Green", "hex": "#39ff14" },
+    { "name": "Pale Ghost", "hex": "#e8f4fd" }
+  ]
+}
