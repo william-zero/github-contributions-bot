@@ -1,0 +1,13 @@
+{
+  "name": "Frozen Comet",
+  "description": "The palette of a comet: ice-blue coma, scorched rock, solar-wind glow",
+  "colors": [
+    { "name": "void-black",     "hex": "#0a0b0f" },
+    { "name": "coma-blue",      "hex": "#7ec8e3" },
+    { "name": "ice-white",      "hex": "#e8f4f8" },
+    { "name": "tail-cyan",      "hex": "#a8ddec" },
+    { "name": "scorched-rock",  "hex": "#4a3728" },
+    { "name": "solar-amber",    "hex": "#f5a623" },
+    { "name": "dust-grey",      "hex": "#b8bec7" }
+  ]
+}
