@@ -1,0 +1,13 @@
+{
+  "name": "Neon Tokyo Rain",
+  "description": "Reflections of neon signs in wet pavement at 2am - a color palette for insomniacs and hackers",
+  "colors": [
+    {"name": "Midnight Asphalt", "hex": "#0F0F14", "rgb": [15, 15, 20]},
+    {"name": "Wet Concrete", "hex": "#1E1E2C", "rgb": [30, 30, 44]},
+    {"name": "Neon Pink", "hex": "#FF2D78", "rgb": [255, 45, 120]},
+    {"name": "Electric Cyan", "hex": "#00E5FF", "rgb": [0, 229, 255]},
+    {"name": "Vending Machine Yellow", "hex": "#FFE500", "rgb": [255, 229, 0]},
+    {"name": "Pachinko Purple", "hex": "#9B59FF", "rgb": [155, 89, 255]},
+    {"name": "Puddle Reflection", "hex": "#3D2B6E", "rgb": [61, 43, 110]}
+  ]
+}
