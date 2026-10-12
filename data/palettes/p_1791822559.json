@@ -1,0 +1,13 @@
+{
+  "name": "Desert Dusk",
+  "description": "Warm tones of sandstone, terracotta, and fading sky as the sun sets over the mesa",
+  "colors": [
+    { "name": "Sandstone", "hex": "#D4A574", "rgb": [212, 165, 116] },
+    { "name": "Terracotta", "hex": "#C1654A", "rgb": [193, 101, 74] },
+    { "name": "Mesa Red", "hex": "#A3432B", "rgb": [163, 67, 43] },
+    { "name": "Fading Sky", "hex": "#E8927C", "rgb": [232, 146, 124] },
+    { "name": "Twilight Mauve", "hex": "#8B6B7A", "rgb": [139, 107, 122] },
+    { "name": "Sage Brush", "hex": "#7A8C6B", "rgb": [122, 140, 107] },
+    { "name": "Dust", "hex": "#C9B99A", "rgb": [201, 185, 154] }
+  ]
+}
