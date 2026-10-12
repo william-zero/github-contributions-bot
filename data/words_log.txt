@@ -107,3 +107,6 @@ serendipity
 petrichor
 sonder
 ephemeral
+serendipity
+ephemeral
+luminous
