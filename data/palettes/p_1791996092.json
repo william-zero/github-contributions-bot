@@ -1,0 +1,12 @@
+{
+  "name": "Autumn Embers",
+  "description": "Warm tones of a dying fire on a crisp October evening",
+  "colors": [
+    { "name": "Char Black", "hex": "#1a1208" },
+    { "name": "Ember Red", "hex": "#c0392b" },
+    { "name": "Smoldering Orange", "hex": "#e67e22" },
+    { "name": "Amber Glow", "hex": "#f39c12" },
+    { "name": "Pale Ash", "hex": "#d5c3a1" },
+    { "name": "Smoke Drift", "hex": "#95a5a6" }
+  ]
+}
