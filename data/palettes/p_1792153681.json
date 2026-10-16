@@ -1,0 +1,13 @@
+{
+  "name": "deep ocean",
+  "description": "cool blues and teals inspired by bioluminescent depths",
+  "colors": [
+    { "name": "abyssal black", "hex": "#0a0e1a" },
+    { "name": "midnight navy", "hex": "#0d1b3e" },
+    { "name": "deep current", "hex": "#1a3a5c" },
+    { "name": "bioluminescent blue", "hex": "#006994" },
+    { "name": "phosphor teal", "hex": "#00b4d8" },
+    { "name": "sea foam", "hex": "#90e0ef" },
+    { "name": "arctic shimmer", "hex": "#caf0f8" }
+  ]
+}
