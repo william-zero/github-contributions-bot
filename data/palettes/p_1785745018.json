@@ -1,0 +1,13 @@
+{
+  "name": "Midnight Bloom",
+  "description": "Deep purples and soft pinks inspired by flowers opening at night",
+  "colors": [
+    { "name": "void-black", "hex": "#0a0a12", "role": "background" },
+    { "name": "midnight-blue", "hex": "#1a1a3e", "role": "surface" },
+    { "name": "twilight-purple", "hex": "#3d1f6b", "role": "primary" },
+    { "name": "bloom-violet", "hex": "#7b35c1", "role": "accent" },
+    { "name": "petal-pink", "hex": "#e06daa", "role": "highlight" },
+    { "name": "blossom-white", "hex": "#f8e8f5", "role": "text" }
+  ],
+  "mood": "mysterious, romantic, dreamy"
+}
