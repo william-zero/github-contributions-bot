@@ -1,0 +1,14 @@
+{
+  "name": "Midnight Neon",
+  "description": "Deep dark backgrounds with electric accent colors — the aesthetic of a 1980s arcade machine left on overnight",
+  "colors": [
+    { "name": "void black",   "hex": "#0A0A0F", "rgb": [10, 10, 15] },
+    { "name": "deep navy",    "hex": "#0D1B2A", "rgb": [13, 27, 42] },
+    { "name": "electric cyan","hex": "#00F5FF", "rgb": [0, 245, 255] },
+    { "name": "hot magenta",  "hex": "#FF00CC", "rgb": [255, 0, 204] },
+    { "name": "neon green",   "hex": "#39FF14", "rgb": [57, 255, 20] },
+    { "name": "plasma orange","hex": "#FF6B00", "rgb": [255, 107, 0] },
+    { "name": "ghost white",  "hex": "#F8F8FF", "rgb": [248, 248, 255] }
+  ],
+  "tags": ["dark", "neon", "retro", "high-contrast", "synthwave"]
+}
