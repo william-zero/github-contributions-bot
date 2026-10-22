@@ -1,0 +1,14 @@
+{
+  "name": "Cosmic Dusk",
+  "description": "Colors inspired by twilight at the edge of the universe",
+  "colors": [
+    { "name": "Nebula Violet", "hex": "#6B3FA0", "rgb": [107, 63, 160] },
+    { "name": "Stardust Rose", "hex": "#C47AB3", "rgb": [196, 122, 179] },
+    { "name": "Event Horizon", "hex": "#1A0A2E", "rgb": [26, 10, 46] },
+    { "name": "Pulsar Cyan", "hex": "#00D4FF", "rgb": [0, 212, 255] },
+    { "name": "Solar Flare", "hex": "#FF6B35", "rgb": [255, 107, 53] },
+    { "name": "Dark Matter", "hex": "#0D0D1A", "rgb": [13, 13, 26] }
+  ],
+  "mood": "mysterious, vast, humbling",
+  "best_for": ["space art", "sci-fi UI", "late night coding sessions"]
+}
