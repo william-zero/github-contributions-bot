@@ -1,0 +1,12 @@
+{
+  "name": "deep ocean",
+  "description": "The colors of bioluminescent creatures in the hadal zone",
+  "colors": [
+    {"name": "abyss", "hex": "#030a1a", "note": "lightless deep water"},
+    {"name": "bathypelagic", "hex": "#0a1f3d", "note": "no sunlight penetrates here"},
+    {"name": "biolume", "hex": "#00d4ff", "note": "anglerfish lure glow"},
+    {"name": "jellyfish", "hex": "#7b2fbe", "note": "deep sea jellyfish violet"},
+    {"name": "phosphor", "hex": "#39ff14", "note": "dinoflagellate green flash"},
+    {"name": "pressure", "hex": "#1a0533", "note": "crushing dark indigo"}
+  ]
+}
