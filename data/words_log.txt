@@ -116,3 +116,5 @@ ephemeral
 luminescent
 serendipity
 petrichor
+phosphorescence
+sonder
