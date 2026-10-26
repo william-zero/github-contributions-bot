@@ -33,3 +33,8 @@ The Dunning-Kruger Effect is a cognitive bias where people with limited knowledg
 
 - Octopuses have three hearts — two pump blood to the gills, one to the rest of the body. When they swim, the main heart stops beating, which is why they prefer crawling. Evolution really said "efficiency is for fish."
 - The first computer bug was an actual bug: a moth found in the Harvard Mark II in 1947. Grace Hopper's team taped it into the logbook with the note "First actual case of bug being found." Prior to this, bugs were just metaphorical. The moth gave them a literal one.
+
+## $(date +%Y-%m-%d) - Bats and Echolocation
+
+- Bats emit ultrasonic pulses at up to 200 calls per second when closing in on prey — their echolocation is so precise they can detect an object as thin as a human hair in complete darkness.
+- Some bat species can hear frequencies up to 212,000 Hz; humans top out around 20,000 Hz. To a bat, our world would sound like a constant low rumble beneath a symphony of invisible details.
