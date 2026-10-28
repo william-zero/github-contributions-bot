@@ -1,0 +1,12 @@
+{
+  "name": "Aurora Borealis",
+  "description": "Inspired by the northern lights dancing across the Arctic sky",
+  "colors": [
+    { "name": "midnight-void", "hex": "#0a0e27", "rgb": [10, 14, 39] },
+    { "name": "deep-teal", "hex": "#0d7377", "rgb": [13, 115, 119] },
+    { "name": "electric-cyan", "hex": "#14a0b8", "rgb": [20, 160, 184] },
+    { "name": "aurora-green", "hex": "#57e389", "rgb": [87, 227, 137] },
+    { "name": "lilac-wave", "hex": "#c084fc", "rgb": [192, 132, 252] },
+    { "name": "magenta-flare", "hex": "#f0abfc", "rgb": [240, 171, 252] }
+  ]
+}
