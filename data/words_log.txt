@@ -118,3 +118,4 @@ serendipity
 petrichor
 phosphorescence
 sonder
+phosphorescent
