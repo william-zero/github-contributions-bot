@@ -1,0 +1,12 @@
+{
+  "name": "deep ocean",
+  "description": "Colors of the twilight zone and abyssal depths",
+  "colors": [
+    { "name": "midnight navy", "hex": "#0d1b2a" },
+    { "name": "abyssal blue", "hex": "#1b2a3d" },
+    { "name": "twilight teal", "hex": "#1e4d5e" },
+    { "name": "bioluminescent cyan", "hex": "#00b4d8" },
+    { "name": "phosphor green", "hex": "#80ffdb" },
+    { "name": "surface shimmer", "hex": "#caf0f8" }
+  ]
+}
