@@ -1,0 +1,14 @@
+{
+  "name": "Midnight Glacier",
+  "description": "Deep cool tones of glacial ice at night — the blue silence of polar wilderness",
+  "colors": [
+    { "name": "void black",       "hex": "#0a0d12" },
+    { "name": "abyss navy",       "hex": "#0d1b2a" },
+    { "name": "glacier shadow",   "hex": "#1b3a4b" },
+    { "name": "arctic twilight",  "hex": "#2d6a82" },
+    { "name": "ice veil",         "hex": "#5ba3b8" },
+    { "name": "frost shimmer",    "hex": "#a3d4e0" },
+    { "name": "pale aurora",      "hex": "#d6eff5" },
+    { "name": "polar whisper",    "hex": "#eef8fb" }
+  ]
+}
