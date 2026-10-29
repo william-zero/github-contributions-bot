@@ -1,0 +1,15 @@
+{
+  "name": "Deep Forest at Dusk",
+  "description": "Colors found in an old-growth forest as daylight fades — moss, shadow, and the last amber glow.",
+  "palette": [
+    { "name": "Canopy Shadow", "hex": "#1a2e1a", "rgb": [26, 46, 26] },
+    { "name": "Fern Green", "hex": "#3d6b3a", "rgb": [61, 107, 58] },
+    { "name": "Lichen Gray", "hex": "#7a8c74", "rgb": [122, 140, 116] },
+    { "name": "Dusk Amber", "hex": "#c47c2b", "rgb": [196, 124, 43] },
+    { "name": "Bark Brown", "hex": "#5c3d1e", "rgb": [92, 61, 30] },
+    { "name": "Mist Veil", "hex": "#b8c9b0", "rgb": [184, 201, 176] },
+    { "name": "Twilight Indigo", "hex": "#2d2d4e", "rgb": [45, 45, 78] }
+  ],
+  "mood": "mysterious",
+  "season": "autumn"
+}
