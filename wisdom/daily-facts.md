@@ -38,3 +38,7 @@ The Dunning-Kruger Effect is a cognitive bias where people with limited knowledg
 
 - Bats emit ultrasonic pulses at up to 200 calls per second when closing in on prey — their echolocation is so precise they can detect an object as thin as a human hair in complete darkness.
 - Some bat species can hear frequencies up to 212,000 Hz; humans top out around 20,000 Hz. To a bat, our world would sound like a constant low rumble beneath a symphony of invisible details.
+
+## Starling Murmurations (2026-10-29)
+- A murmuration of starlings can contain over a million birds moving in perfect synchrony — each bird tracks just its 6-7 nearest neighbors, yet the whole flock ripples like a single liquid organism.
+- Scientists call this "scale-free correlation": information about a hawk's approach can travel from one edge of a million-bird flock to the other in under half a second.
