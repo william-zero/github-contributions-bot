@@ -1,0 +1,12 @@
+{
+  "name": "Deep Ocean Trench",
+  "description": "Colors from where sunlight never reaches but bioluminescence glows",
+  "colors": [
+    { "name": "abyss", "hex": "#040d1e", "notes": "the black between black" },
+    { "name": "hadal blue", "hex": "#0a1f3c", "notes": "pressure at 11km depth" },
+    { "name": "bioluminescent cyan", "hex": "#00e5ff", "notes": "anglerfish lure glow" },
+    { "name": "midnight teal", "hex": "#003d4f", "notes": "thermal vent mist" },
+    { "name": "ghost white", "hex": "#e8f4f8", "notes": "blind cave shrimp pallor" },
+    { "name": "phosphor green", "hex": "#39ff14", "notes": "dinoflagellate spark" }
+  ]
+}
