@@ -122,3 +122,6 @@ phosphorescent
 phosphorescent
 crepuscular
 susurrus
+vellichor
+sonder
+hiraeth
