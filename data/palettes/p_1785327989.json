@@ -1,0 +1,14 @@
+{
+  "name": "Midnight Ember",
+  "description": "Dark navy meets smoldering amber — perfect for dashboards that work overtime",
+  "colors": [
+    { "name": "deep void", "hex": "#0D0F1A" },
+    { "name": "charcoal haze", "hex": "#1E2130" },
+    { "name": "steel shadow", "hex": "#2E3350" },
+    { "name": "slate mist", "hex": "#4A5270" },
+    { "name": "ember glow", "hex": "#E07B39" },
+    { "name": "forge orange", "hex": "#C95F1A" },
+    { "name": "molten gold", "hex": "#F0A830" },
+    { "name": "ash white", "hex": "#D4CFC8" }
+  ]
+}
