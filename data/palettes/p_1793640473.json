@@ -1,0 +1,13 @@
+{
+  "name": "Autumn Fog",
+  "description": "Muted earthy tones inspired by misty November mornings",
+  "colors": [
+    { "name": "smoky quartz",   "hex": "#7a6855", "rgb": [122, 104, 85]  },
+    { "name": "dried sage",     "hex": "#8fa38b", "rgb": [143, 163, 139] },
+    { "name": "morning mist",   "hex": "#c9cfc8", "rgb": [201, 207, 200] },
+    { "name": "amber dusk",     "hex": "#c47b3a", "rgb": [196, 123, 58]  },
+    { "name": "deep charcoal",  "hex": "#2e2e2e", "rgb": [46, 46, 46]   }
+  ],
+  "mood": "contemplative, warm, grounded",
+  "best_for": ["UI backgrounds", "autumn themes", "editorial layouts"]
+}
