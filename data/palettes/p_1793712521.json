@@ -1,0 +1,13 @@
+{
+  "name": "Autumn Twilight",
+  "description": "The sky just after the sun sets on a crisp November evening",
+  "colors": [
+    {"name": "Deep Indigo", "hex": "#1a1040"},
+    {"name": "Twilight Purple", "hex": "#3d2b6e"},
+    {"name": "Dusk Violet", "hex": "#6b3fa0"},
+    {"name": "Mauve Glow", "hex": "#a0608a"},
+    {"name": "Dusty Rose", "hex": "#c4836e"},
+    {"name": "Warm Amber", "hex": "#e8a84a"},
+    {"name": "Pale Gold", "hex": "#f5d07a"}
+  ]
+}
