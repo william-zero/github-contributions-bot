@@ -130,3 +130,6 @@ ephemeral
 petrichor
 sonder
 hiraeth
+serendipitous
+melancholy
+penumbra
