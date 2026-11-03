@@ -125,3 +125,8 @@ susurrus
 vellichor
 sonder
 hiraeth
+serendipity
+ephemeral
+petrichor
+sonder
+hiraeth
