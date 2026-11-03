@@ -1,0 +1,14 @@
+{
+  "name": "November Dusk",
+  "description": "The precise palette of 5pm in November, when the sky can't decide between twilight and storm",
+  "colors": [
+    { "name": "slate fog", "hex": "#8B9DA8", "rgb": [139, 157, 168] },
+    { "name": "pewter cloud", "hex": "#6E7F8A", "rgb": [110, 127, 138] },
+    { "name": "deep harbor", "hex": "#3A4F5C", "rgb": [58, 79, 92] },
+    { "name": "last light", "hex": "#C4A882", "rgb": [196, 168, 130] },
+    { "name": "cold heather", "hex": "#9B8FA0", "rgb": [155, 143, 160] },
+    { "name": "ink water", "hex": "#2C3A42", "rgb": [44, 58, 66] }
+  ],
+  "mood": "contemplative, slightly melancholy, beautifully inevitable",
+  "pairs_well_with": ["a hot drink", "a good book", "the sound of distant rain"]
+}
