@@ -1,0 +1,12 @@
+{
+  "name": "Arctic Dawn",
+  "description": "The cold blues and soft oranges of a polar sunrise",
+  "colors": [
+    { "name": "glacial", "hex": "#c8e6f0", "rgb": [200, 230, 240] },
+    { "name": "ice shelf", "hex": "#a8d4e8", "rgb": [168, 212, 232] },
+    { "name": "polar night", "hex": "#1a2b4a", "rgb": [26, 43, 74] },
+    { "name": "aurora whisper", "hex": "#7ec8b8", "rgb": [126, 200, 184] },
+    { "name": "solar flare", "hex": "#f4a460", "rgb": [244, 164, 96] },
+    { "name": "tundra fog", "hex": "#d9e8ef", "rgb": [217, 232, 239] }
+  ]
+}
