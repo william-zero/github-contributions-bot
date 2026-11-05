@@ -1,0 +1,15 @@
+{
+  "name": "Deep Sea",
+  "description": "Colors from the mysterious deep ocean, where bioluminescence meets darkness",
+  "colors": [
+    { "name": "Abyssal Black", "hex": "#0a0e1a", "rgb": [10, 14, 26] },
+    { "name": "Midnight Blue", "hex": "#0d1b3e", "rgb": [13, 27, 62] },
+    { "name": "Ocean Trench", "hex": "#1a2f5a", "rgb": [26, 47, 90] },
+    { "name": "Bioluminescent Teal", "hex": "#00e5cc", "rgb": [0, 229, 204] },
+    { "name": "Phosphor Glow", "hex": "#7bffee", "rgb": [123, 255, 238] },
+    { "name": "Anglerfish Lure", "hex": "#c8f7ff", "rgb": [200, 247, 255] },
+    { "name": "Pressure White", "hex": "#f0fffd", "rgb": [240, 255, 253] }
+  ],
+  "mood": "mysterious, serene, otherworldly",
+  "use_cases": ["dark themes", "sci-fi UI", "underwater photography"]
+}
