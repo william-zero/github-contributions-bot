@@ -1,0 +1,14 @@
+{
+  "name": "Bioluminescent Deep",
+  "description": "Colors inspired by creatures that glow in the dark ocean depths",
+  "colors": [
+    { "name": "Abyssal Black",    "hex": "#050a12", "rgb": [5, 10, 18] },
+    { "name": "Deep Navy",        "hex": "#0a1628", "rgb": [10, 22, 40] },
+    { "name": "Midnight Blue",    "hex": "#0d2137", "rgb": [13, 33, 55] },
+    { "name": "Dinoflagellate",   "hex": "#0066aa", "rgb": [0, 102, 170] },
+    { "name": "Anglerfish Lure",  "hex": "#00bfff", "rgb": [0, 191, 255] },
+    { "name": "Jellyfish Pulse",  "hex": "#39ff14", "rgb": [57, 255, 20] },
+    { "name": "Firefly Squid",    "hex": "#7b2fff", "rgb": [123, 47, 255] },
+    { "name": "Viperfish Fang",   "hex": "#c0f0ff", "rgb": [192, 240, 255] }
+  ]
+}
