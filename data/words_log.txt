@@ -133,3 +133,6 @@ hiraeth
 serendipitous
 melancholy
 penumbra
+kaleidoscope
+serendipity
+petrichor
