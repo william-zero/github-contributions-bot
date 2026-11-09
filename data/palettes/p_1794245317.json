@@ -1,0 +1,13 @@
+{
+  "name": "Deep Ocean Twilight",
+  "description": "Colors from the ocean at the boundary between sunlight and darkness",
+  "swatches": [
+    { "name": "midnight abyss", "hex": "#0a0f1e" },
+    { "name": "deep current", "hex": "#0d2137" },
+    { "name": "bioluminescent bloom", "hex": "#004f6b" },
+    { "name": "thermocline blue", "hex": "#0a7ea4" },
+    { "name": "jellyfish glow", "hex": "#37b8d4" },
+    { "name": "sea foam",        "hex": "#a8e6f0" },
+    { "name": "white cap",       "hex": "#e8f8fc" }
+  ]
+}
