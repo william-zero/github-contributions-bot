@@ -1,0 +1,12 @@
+{
+  "name": "Autumn Embers",
+  "description": "Warm fall palette inspired by dying leaves and campfire glow",
+  "colors": [
+    { "name": "Charcoal Ash",   "hex": "#2C2C2C", "rgb": [44, 44, 44]    },
+    { "name": "Burnt Sienna",   "hex": "#8B3A0F", "rgb": [139, 58, 15]   },
+    { "name": "Pumpkin Spice",  "hex": "#C0531A", "rgb": [192, 83, 26]   },
+    { "name": "Harvest Gold",   "hex": "#D4890A", "rgb": [212, 137, 10]  },
+    { "name": "Maple Yellow",   "hex": "#E8C23A", "rgb": [232, 194, 58]  },
+    { "name": "Cream Fog",      "hex": "#F4E9D0", "rgb": [244, 233, 208] }
+  ]
+}
