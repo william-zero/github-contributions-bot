@@ -1,0 +1,12 @@
+{
+  "name": "Midnight Tide",
+  "description": "Deep ocean blues and phosphorescent greens at night",
+  "colors": [
+    { "name": "abyssal", "hex": "#0a0e1a", "rgb": [10, 14, 26] },
+    { "name": "deep current", "hex": "#0d2137", "rgb": [13, 33, 55] },
+    { "name": "midnight wave", "hex": "#0e3a5c", "rgb": [14, 58, 92] },
+    { "name": "bioluminescent", "hex": "#00f5a0", "rgb": [0, 245, 160] },
+    { "name": "sea foam glow", "hex": "#7fffd4", "rgb": [127, 255, 212] },
+    { "name": "crest white", "hex": "#e8f4f8", "rgb": [232, 244, 248] }
+  ]
+}
