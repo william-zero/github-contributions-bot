@@ -1,0 +1,13 @@
+{
+  "name": "Midnight Library",
+  "description": "The quiet colors of a library at 2am — dusty, warm, and full of unread adventures",
+  "mood": "contemplative",
+  "colors": [
+    { "name": "Old Paper",       "hex": "#F2E8D5", "note": "the color of a well-loved page" },
+    { "name": "Mahogany Shelf",  "hex": "#6B3A2A", "note": "solid, dependable, slightly judgmental about your reading speed" },
+    { "name": "Lamp Amber",      "hex": "#D4A843", "note": "the warmth of a single reading light" },
+    { "name": "Dust Jacket Teal","hex": "#2E6B6E", "note": "that one spine that catches your eye every time" },
+    { "name": "Midnight Stacks", "hex": "#1A1A2E", "note": "the dark beyond the last lit aisle" },
+    { "name": "Faded Ink",       "hex": "#4A4555", "note": "words that have been read so many times they feel lighter" }
+  ]
+}
