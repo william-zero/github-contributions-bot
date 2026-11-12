@@ -136,3 +136,6 @@ penumbra
 kaleidoscope
 serendipity
 petrichor
+petrichor
+serendipity
+ephemeral
