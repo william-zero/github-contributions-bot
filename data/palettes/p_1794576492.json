@@ -1,0 +1,14 @@
+{
+  "name": "Autumn Embers",
+  "description": "Warm tones of a late October evening — smoldering logs, fading maples, and woodsmoke skies",
+  "colors": [
+    { "name": "Charcoal Smoke", "hex": "#2D2926", "rgb": [45, 41, 38] },
+    { "name": "Deep Mahogany", "hex": "#6B2D2D", "rgb": [107, 45, 45] },
+    { "name": "Burnt Sienna", "hex": "#C45C26", "rgb": [196, 92, 38] },
+    { "name": "Pumpkin Blaze", "hex": "#E8721A", "rgb": [232, 114, 26] },
+    { "name": "Amber Glow", "hex": "#F5A623", "rgb": [245, 166, 35] },
+    { "name": "Golden Leaf", "hex": "#D4A017", "rgb": [212, 160, 23] },
+    { "name": "Wheat Dusk", "hex": "#E8D5A3", "rgb": [232, 213, 163] },
+    { "name": "Ash Cream", "hex": "#F4ECD8", "rgb": [244, 236, 216] }
+  ]
+}
