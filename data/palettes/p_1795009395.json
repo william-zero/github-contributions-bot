@@ -1,0 +1,12 @@
+{
+  "name": "Deep Ocean",
+  "description": "Colors from the mysterious deep sea",
+  "colors": [
+    { "name": "Abyssal Black", "hex": "#0A0E1A", "rgb": [10, 14, 26] },
+    { "name": "Midnight Navy", "hex": "#1B2A4A", "rgb": [27, 42, 74] },
+    { "name": "Bioluminescent Blue", "hex": "#00CFFF", "rgb": [0, 207, 255] },
+    { "name": "Phosphorescent Teal", "hex": "#00E5CC", "rgb": [0, 229, 204] },
+    { "name": "Deep Sea Green", "hex": "#006B5B", "rgb": [0, 107, 91] },
+    { "name": "Ghost Fish White", "hex": "#E8F4F8", "rgb": [232, 244, 248] }
+  ]
+}
