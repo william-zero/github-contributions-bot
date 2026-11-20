@@ -1,0 +1,13 @@
+{
+  "name": "Neon Dusk",
+  "description": "Synthwave sunset — when the sky forgot what colors are normal",
+  "colors": [
+    { "name": "Deep Space", "hex": "#0d0221", "rgb": [13, 2, 33] },
+    { "name": "Electric Indigo", "hex": "#4b0082", "rgb": [75, 0, 130] },
+    { "name": "Hot Magenta", "hex": "#c8007a", "rgb": [200, 0, 122] },
+    { "name": "Neon Orange", "hex": "#ff6b35", "rgb": [255, 107, 53] },
+    { "name": "Laser Yellow", "hex": "#ffee00", "rgb": [255, 238, 0] },
+    { "name": "Cyber Teal", "hex": "#00f5d4", "rgb": [0, 245, 212] },
+    { "name": "Ghost White", "hex": "#f0f0ff", "rgb": [240, 240, 255] }
+  ]
+}
