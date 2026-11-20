@@ -1,0 +1,13 @@
+{
+  "name": "Ember Glow",
+  "description": "Warm sunset embers fading into dusk",
+  "colors": [
+    { "name": "Forge Red", "hex": "#C0392B", "role": "primary" },
+    { "name": "Ember Orange", "hex": "#E67E22", "role": "accent" },
+    { "name": "Molten Gold", "hex": "#F39C12", "role": "highlight" },
+    { "name": "Ash Mauve", "hex": "#7D5A5A", "role": "neutral" },
+    { "name": "Charcoal Dusk", "hex": "#2C2C2C", "role": "background" },
+    { "name": "Pale Cinder", "hex": "#FAD7A0", "role": "surface" }
+  ],
+  "tags": ["warm", "fire", "sunset", "dramatic"]
+}
