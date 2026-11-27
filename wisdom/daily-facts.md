@@ -42,3 +42,7 @@ The Dunning-Kruger Effect is a cognitive bias where people with limited knowledg
 ## Starling Murmurations (2026-10-29)
 - A murmuration of starlings can contain over a million birds moving in perfect synchrony — each bird tracks just its 6-7 nearest neighbors, yet the whole flock ripples like a single liquid organism.
 - Scientists call this "scale-free correlation": information about a hawk's approach can travel from one edge of a million-bird flock to the other in under half a second.
+
+## 2026-11-27
+- Crows can recognize individual human faces and hold grudges for years — they've been observed recruiting other crows to mob a person who wronged them months earlier.
+- The longest-living vertebrate is the Greenland shark, which can live over 400 years; some alive today were born before the invention of the telescope.
