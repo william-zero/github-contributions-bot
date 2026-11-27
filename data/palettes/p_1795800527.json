@@ -1,0 +1,13 @@
+{
+  "name": "Autumn Embers",
+  "description": "Warm tones of a dying fire meeting cool twilight",
+  "colors": [
+    { "name": "Charcoal Ash", "hex": "#2D2D2D" },
+    { "name": "Smoldering Mahogany", "hex": "#6B2D2D" },
+    { "name": "Ember Rust", "hex": "#C0392B" },
+    { "name": "Harvest Orange", "hex": "#E67E22" },
+    { "name": "Golden Hour", "hex": "#F39C12" },
+    { "name": "Fading Amber", "hex": "#F1C40F" },
+    { "name": "Twilight Lavender", "hex": "#7D3C98" }
+  ]
+}
