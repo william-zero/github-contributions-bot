@@ -1,0 +1,14 @@
+{
+  "name": "Autumn Ember",
+  "description": "Warm autumn palette inspired by smoldering embers and falling leaves",
+  "colors": [
+    { "name": "deep charcoal", "hex": "#2C2416", "rgb": [44, 36, 22] },
+    { "name": "burnt sienna", "hex": "#A0522D", "rgb": [160, 82, 45] },
+    { "name": "harvest gold", "hex": "#D4A017", "rgb": [212, 160, 23] },
+    { "name": "ember orange", "hex": "#E8611A", "rgb": [232, 97, 26] },
+    { "name": "russet red", "hex": "#8B2500", "rgb": [139, 37, 0] },
+    { "name": "warm cream", "hex": "#F5E6C8", "rgb": [245, 230, 200] },
+    { "name": "sage mist", "hex": "#7C9A7E", "rgb": [124, 154, 126] }
+  ],
+  "tags": ["warm", "autumn", "earthy", "cozy"]
+}
